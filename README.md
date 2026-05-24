@@ -7,7 +7,7 @@ A mod for World of Tanks that replaces unrealistic tank names with correct desig
 
 VIII
 - First Warrior --> Type 59
-- Alpine Tiger
+- Alpine Tiger --> WZ-111
 
 IX
 - Dragon's Soul --> DZT-159
