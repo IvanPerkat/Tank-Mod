@@ -3,21 +3,20 @@ A mod for World of Tanks that replaces unrealistic tank names with correct desig
 
 ## List of changes
 
-**China**
+Below is complete list of all renamed vehicles, categorized by tier and nation.
 
-VIII
-- First Warrior --> Type 59
-- Alpine Tiger --> WZ-111
+### China
 
-IX
-- Dragon's Soul --> DZT-159
-- Yong Bing --> BZ-63-II
+| Tier | Original | Changed |
+| :---: | :---: | :---: |
+| **VIII** | First Warrior | Type 59 |
+| **VIII** | Alpine Tiger | WZ-111 |
+| **IX** | Dragon's Soul | DZT-159 |
+| **IX** | Yong Bing | BZ-63-II |
+| **X** | Monkey King | 113 |
 
-X
-- Monkey King --> 113
 
-
-**Czechoslovakia**
+### Czechoslovakia
 
 VIII
 - Blesk --> Vz. 64
