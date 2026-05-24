@@ -16,4 +16,23 @@ IX
 X
 - Monkey King --> 113
 
+
 **Czechoslovakia**
+
+VIII
+- Blesk --> Vz. 64
+- Projekt ION --> Škoda T 56
+- Šotek --> ShPTK-TVP
+- Squall --> Vz. 68
+
+IX
+- Šelma --> LPT-67
+- Vlkodav --> SDT-58
+- Medvěd --> Vz. 58K
+- Ogar --> ZŤS Vz. 63-1
+- TNH T Vz. 51 --> TNH T vz. 51
+
+X
+- Vz. 55 --> TNH T vz. 55
+- Tesák --> Vz. 71
+- Dravec --> Vz. 60S
