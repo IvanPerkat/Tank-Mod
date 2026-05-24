@@ -167,7 +167,7 @@ msgid "Ch03_WZ-111_short_special"
 msgstr "A reliable turret and preferential matchmaking"
 
 msgid "Ch03_WZ_111_A"
-msgstr "WZ-111 Alpine Tiger"
+msgstr "WZ-111"
 
 msgid "Ch03_WZ_111_A_descr"
 msgstr ""
@@ -185,7 +185,7 @@ msgstr ""
 "return and organize an effective defense."
 
 msgid "Ch03_WZ_111_A_short"
-msgstr "Alpine Tiger"
+msgstr "WZ-111"
 
 msgid "Ch03_WZ_111_A_short_special"
 msgstr "A reliable turret and preferential matchmaking"
@@ -519,7 +519,7 @@ msgid "Ch25_121_mod_1971B"
 msgstr "121B"
 
 msgid "Ch25_121_mod_1971B_MK"
-msgstr "Monkey King"
+msgstr "113"
 
 msgid "Ch25_121_mod_1971B_MK_descr"
 msgstr ""
@@ -539,7 +539,7 @@ msgstr ""
 "in the most difficult situations."
 
 msgid "Ch25_121_mod_1971B_MK_short"
-msgstr "Monkey King"
+msgstr "113"
 
 msgid "Ch25_121_mod_1971B_MK_short_special"
 msgstr "Good damage per shot and mobility, with a unique exterior"
@@ -1277,7 +1277,7 @@ msgid "Ch61_DZT_159"
 msgstr "DZT-159"
 
 msgid "Ch61_DZT_159_CFE_A"
-msgstr "DZT-159 Dragon's Soul"
+msgstr "DZT-159"
 
 msgid "Ch61_DZT_159_CFE_A_descr"
 msgstr ""
@@ -1301,7 +1301,7 @@ msgstr ""
 "capable of finding its place on the battlefield."
 
 msgid "Ch61_DZT_159_CFE_A_short"
-msgstr "Dragon's Soul"
+msgstr "DZT-159"
 
 msgid "Ch61_DZT_159_CFE_A_short_special"
 msgstr "Strong turret armor, jet boosters"
@@ -1362,7 +1362,7 @@ msgid "Ch62_BZ_75_M_short_special"
 msgstr "Jet boosters, unique exterior"
 
 msgid "Ch63_Yong_Bing"
-msgstr "Yong Bing"
+msgstr "BZ-63-II"
 
 msgid "Ch63_Yong_Bing_descr"
 msgstr ""
@@ -1376,20 +1376,20 @@ msgstr ""
 
 msgid "Ch63_Yong_Bing_long_special"
 msgstr ""
-"The Yong Bing is a Tier IX Chinese heavy tank with a unique combination of "
+"The BZ-63-II is a Tier IX Chinese heavy tank with a unique combination of "
 "jet boosters and a double gun system. While its base mobility is mediocre, "
 "the ten short but powerful jet boosters allow it to operate as a true "
 "breakthrough heavy tank. Thick frontal armor and less reliable sides further "
 "complement this aggressive playstyle."
 
 msgid "Ch63_Yong_Bing_short"
-msgstr "Yong Bing"
+msgstr "BZ-63-II"
 
 msgid "Ch63_Yong_Bing_short_special"
 msgstr "Thick frontal armor, jet boosters, and double gun system"
 
 msgid "Ch65_Type59_IC4_3DSt"
-msgstr "Type 59 First Warrior"
+msgstr "Type 59"
 
 msgid "Ch65_Type59_IC4_3DSt_descr"
 msgstr ""
@@ -1411,7 +1411,7 @@ msgstr ""
 "not have great gun depression/elevation angles."
 
 msgid "Ch65_Type59_IC4_3DSt_short"
-msgstr "First Warrior"
+msgstr "Type 59"
 
 msgid "Ch65_Type59_IC4_3DSt_short_special"
 msgstr "Decent frontal armor, preferential matchmaking"
@@ -1669,7 +1669,7 @@ msgid "Chassis_Ch25_121_mod_1971B"
 msgstr "121B"
 
 msgid "Chassis_Ch25_121_mod_1971B_MK"
-msgstr "Monkey King"
+msgstr "113"
 
 msgid "Chassis_Ch26_59_Patton"
 msgstr "59-Patton"
@@ -1816,13 +1816,13 @@ msgid "Chassis_Ch61_DZT_159"
 msgstr "DZT-159"
 
 msgid "Chassis_Ch61_DZT_159_CFE_A"
-msgstr "Dragon's Soul"
+msgstr "DZT-159"
 
 msgid "Chassis_Ch62_BZ_75_M"
 msgstr "Divine Valor"
 
 msgid "Chassis_Ch63_Yong_Bing"
-msgstr "Yong Bing"
+msgstr "BZ-63-II"
 
 msgid "Chassis_Ch65_Type59_IC4_3DSt"
 msgstr "IC4"
@@ -2003,7 +2003,7 @@ msgid "Turret_1_Ch25_121_mod_1971B"
 msgstr "121B"
 
 msgid "Turret_1_Ch25_121_mod_1971B_MK"
-msgstr "Monkey King"
+msgstr "113"
 
 msgid "Turret_1_Ch26_59_Patton"
 msgstr "59-Patton"
@@ -2114,13 +2114,13 @@ msgid "Turret_1_Ch61_DZT_159"
 msgstr "DZT-159"
 
 msgid "Turret_1_Ch61_DZT_159_CFE_A"
-msgstr "Dragon's Soul"
+msgstr "DZT-159"
 
 msgid "Turret_1_Ch62_BZ_75_M"
 msgstr "Divine Valor"
 
 msgid "Turret_1_Ch63_Yong_Bing"
-msgstr "Yong Bing"
+msgstr "BZ-63-II"
 
 msgid "Turret_1_Ch65_Type59_IC4_3DSt"
 msgstr "IC4"
