@@ -3,7 +3,7 @@ A mod for World of Tanks that replaces unrealistic tank names with correct desig
 
 ## List of changes
 
-Below is complete list of all renamed vehicles, categorized by tier and nation.
+Below is complete list of all renamed vehicles categorized by tier and nation.
 
 ### China
 
@@ -29,6 +29,6 @@ Below is complete list of all renamed vehicles, categorized by tier and nation.
 | **IX** | Medvěd | Vz. 58K |
 | **IX** | Ogar | ZŤS vz. 63-1 |
 | **IX** | TNH T Vz. 51 | TNH T vz. 51 |
-| **X** | Vz. 55 | THH T vz. 55 |
+| **X** | Vz. 55 | TNH T vz. 55 |
 | **X** | Tesák | Vz. 71 |
 | **X** | Dravec | Vz. 60S |
