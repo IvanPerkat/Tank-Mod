@@ -95,7 +95,7 @@ msgid "Chassis_Cz14_Skoda_T-56"
 msgstr "T-56"
 
 msgid "Chassis_Cz14_Skoda_T-56_WT24_3Dst"
-msgstr "Projekt ION"
+msgstr "Škoda T 56"
 
 msgid "Chassis_Cz15_Skoda_T-45_Prem"
 msgstr "T-45 (P)"
@@ -128,13 +128,13 @@ msgid "Chassis_Cz20_ShPTK_TVP_100_mm"
 msgstr "ShPTK-TVP vz. 48"
 
 msgid "Chassis_Cz20_ShPTK_TVP_100_mm_CO"
-msgstr "Šotek"
+msgstr "ShPTK-TVP vz. 48"
 
 msgid "Chassis_Cz21_Vz_60S"
 msgstr "Vz. 60S"
 
 msgid "Chassis_Cz21_Vz_60S_Dravec"
-msgstr "Vz. 60S Dravec"
+msgstr "Vz. 60S"
 
 msgid "Chassis_Cz22_Skoda_T_15A"
 msgstr "Škoda T 15A"
@@ -146,16 +146,16 @@ msgid "Chassis_Cz23_Skoda_T_17_2"
 msgstr "Škoda T 17 druhý model"
 
 msgid "Chassis_Cz24_Vz_64_Blesk"
-msgstr "Vz. 64 Blesk první model"
+msgstr "Vz. 64 první model"
 
 msgid "Chassis_Cz24_Vz_64_Blesk_2"
-msgstr "Vz. 64 Blesk druhý model"
+msgstr "Vz. 64 druhý model"
 
 msgid "Chassis_Cz28_LPT_67_Selma"
-msgstr "LPT-67 Šelma první model"
+msgstr "LPT-67 první model"
 
 msgid "Chassis_Cz28_LPT_67_Selma_2"
-msgstr "LPT-67 Šelma druhý model"
+msgstr "LPT-67 druhý model"
 
 msgid "Chassis_Cz29_Pzw_39"
 msgstr "Panzerwagen 39"
@@ -164,13 +164,13 @@ msgid "Chassis_Cz30_TBT"
 msgstr "TBT"
 
 msgid "Chassis_Cz32_Vz_58_Koncept"
-msgstr "Vz. 58 Medvěd"
+msgstr "Vz. 58K"
 
 msgid "Chassis_Cz33_Vz_68_Squall"
-msgstr "Vz. 68 Squall"
+msgstr "Vz. 68"
 
 msgid "Chassis_Cz34_Vz_71_Tesak"
-msgstr "Vz. 71 Tesák"
+msgstr "Vz. 71"
 
 msgid "Chassis_Cz35_T56_G"
 msgstr "TT-130M"
@@ -179,7 +179,7 @@ msgid "Chassis_Cz36_Jezevec"
 msgstr "Jezevec"
 
 msgid "Chassis_Cz37_SDT_58_Vlkodav"
-msgstr "SDT-58 Vlkodav"
+msgstr "SDT-58"
 
 msgid "Chassis_Cz38_SZDV_vz50"
 msgstr "SZDV Vz. 50"
@@ -191,7 +191,7 @@ msgid "Chassis_Cz40_DBV_152"
 msgstr "DBV-152"
 
 msgid "Chassis_Cz43_Ogar"
-msgstr "Ogar"
+msgstr "ZŤS Vz. 63-1"
 
 msgid "Cz01_Skoda_T40"
 msgstr "Škoda T 40"
@@ -371,7 +371,7 @@ msgid "Cz14_Skoda_T-56"
 msgstr "Škoda T 56"
 
 msgid "Cz14_Skoda_T-56_WT24_3Dst"
-msgstr "Projekt ION"
+msgstr "Škoda T 56"
 
 msgid "Cz14_Skoda_T-56_WT24_3Dst_descr"
 msgstr ""
@@ -394,7 +394,7 @@ msgstr ""
 "single shot."
 
 msgid "Cz14_Skoda_T-56_WT24_3Dst_short"
-msgstr "Projekt ION"
+msgstr "Škoda T 56"
 
 msgid "Cz14_Skoda_T-56_WT24_3Dst_short_special"
 msgstr "Tough modified armor and good damage"
@@ -445,7 +445,7 @@ msgid "Cz15_Skoda_T-45_Prem_short_special"
 msgstr "Great penetration and decent frontal armor"
 
 msgid "Cz16_TNH_T_vz51"
-msgstr "TNH T Vz. 51"
+msgstr "TNH T vz. 51"
 
 msgid "Cz16_TNH_T_vz51_descr"
 msgstr ""
@@ -456,10 +456,10 @@ msgstr ""
 "were ever built."
 
 msgid "Cz16_TNH_T_vz51_short"
-msgstr "TNH T Vz. 51"
+msgstr "TNH T vz. 51"
 
 msgid "Cz17_Vz_55"
-msgstr "Vz. 55"
+msgstr "TNH T vz. 55"
 
 msgid "Cz17_Vz_55_CN"
 msgstr "Vz. 55 Gothic Warrior"
@@ -492,7 +492,7 @@ msgstr ""
 "of armament of Warsaw Pact countries. No prototypes were built."
 
 msgid "Cz17_Vz_55_short"
-msgstr "Vz. 55"
+msgstr "TNH T vz. 55"
 
 msgid "Cz18_TNH_105_1000"
 msgstr "TNH 105/1000"
@@ -528,7 +528,7 @@ msgid "Cz20_ShPTK_TVP_100_mm"
 msgstr "ShPTK-TVP 100"
 
 msgid "Cz20_ShPTK_TVP_100_mm_CO"
-msgstr "Šotek"
+msgstr "ShPTK-TVP 100"
 
 msgid "Cz20_ShPTK_TVP_100_mm_CO_descr"
 msgstr ""
@@ -556,7 +556,7 @@ msgstr ""
 "start shooting, and then change position."
 
 msgid "Cz20_ShPTK_TVP_100_mm_CO_short"
-msgstr "Šotek"
+msgstr "ShPTK-TVP"
 
 msgid "Cz20_ShPTK_TVP_100_mm_CO_short_special"
 msgstr "High damage per minute and good penetration"
@@ -589,14 +589,14 @@ msgid "Cz21_Vz_60S"
 msgstr "Vz. 60S"
 
 msgid "Cz21_Vz_60S_Dravec"
-msgstr "Vz. 60S Dravec"
+msgstr "Vz. 60S"
 
 msgid "Cz21_Vz_60S_Dravec_descr"
 msgstr ""
 "Even though production of the T-55 was already established, Czechoslovak "
 "engineers continued to work on a promising tank. The mass-produced T-55 "
 "needed to have its armor enhanced, but just increasing the steel thickness "
-"did not solve the problem. The main focus in the Vz. 60S Dravec project was "
+"did not solve the problem. The main focus in the Vz. 60S project was "
 "thus to increase the armoring and firepower. The vehicle was given spaced "
 "screen protection and Oplot-MO active protection. To improve the firepower, "
 "the tank was equipped with the Neva KTD-1 laser rangefinder, while the gun "
@@ -607,14 +607,14 @@ msgstr ""
 
 msgid "Cz21_Vz_60S_Dravec_long_special"
 msgstr ""
-"The Vz. 60S Dravec is a Tier X heavy tank. The main feature of the vehicle "
+"The Vz. 60S is a Tier X heavy tank. The main feature of the vehicle "
 "is reliable protection based on thick sloped turret and hull armor plates, "
 "enhanced by additional spaced armor. Despite its strong armament, the "
 "vehicle boasts good mobility for a heavy tank. It is equipped with a "
 "balanced 122 mm gun with no glaring flaws."
 
 msgid "Cz21_Vz_60S_Dravec_short"
-msgstr "Dravec"
+msgstr "Vz. 60S"
 
 msgid "Cz21_Vz_60S_Dravec_short_special"
 msgstr "Great armor, comfortable gun"
@@ -693,7 +693,7 @@ msgid "Cz23_Skoda_T_17_short"
 msgstr "Škoda T 17"
 
 msgid "Cz24_Vz_64_Blesk"
-msgstr "Vz. 64 Blesk"
+msgstr "Vz. 64"
 
 msgid "Cz24_Vz_64_Blesk_descr"
 msgstr ""
@@ -706,14 +706,14 @@ msgstr ""
 "went no further than blueprints."
 
 msgid "Cz24_Vz_64_Blesk_short"
-msgstr "Blesk"
+msgstr "Vz. 64"
 
 msgid "Cz28_LPT_67_Selma"
-msgstr "LPT-67 Šelma"
+msgstr "LPT-67"
 
 msgid "Cz28_LPT_67_Selma_descr"
 msgstr ""
-"The LPT-67 Šelma, a Czechoslovakian light tank, was a variant of the German "
+"The LPT-67, a Czechoslovakian light tank, was a variant of the German "
 "Spähpanzer concept. The hull layout was similar to the Soviet PT-76B and "
 "BTR-50 vehicles, and the frontal armor was reinforced. Use of a powerful "
 "diesel engine was planned to ensure the necessary mobility. An original "
@@ -726,7 +726,7 @@ msgstr ""
 "produce."
 
 msgid "Cz28_LPT_67_Selma_short"
-msgstr "Šelma"
+msgstr "LPT-67"
 
 msgid "Cz29_Pzw_39"
 msgstr "Panzerwagen 39"
@@ -780,7 +780,7 @@ msgid "Cz30_TBT_short_special"
 msgstr "Two-shell autoloader, good hull and turret armor"
 
 msgid "Cz32_Vz_58_Koncept"
-msgstr "Vz. 58 Medvěd"
+msgstr "Vz. 58K"
 
 msgid "Cz32_Vz_58_Koncept_descr"
 msgstr ""
@@ -791,20 +791,20 @@ msgstr ""
 
 msgid "Cz32_Vz_58_Koncept_long_special"
 msgstr ""
-"The Vz. 58 Medvěd is a logical continuation of the Czech magazine loading "
+"The Vz. 58K is a logical continuation of the Czech magazine loading "
 "system heavy tanks. It carries an upgraded 122 mm gun, which bolsters the "
 "strong assault nature of the Vz. 58 — capable of unleashing four devastating "
 "shots in relatively quick succession, it can devastate even the mightiest of "
 "enemy heavy tanks in no time."
 
 msgid "Cz32_Vz_58_Koncept_short"
-msgstr "Medvěd"
+msgstr "Vz. 58K"
 
 msgid "Cz32_Vz_58_Koncept_short_special"
 msgstr "4-shot clip, sturdy armor"
 
 msgid "Cz33_Vz_68_Squall"
-msgstr "Vz. 68 Squall"
+msgstr "Vz. 68"
 
 msgid "Cz33_Vz_68_Squall_descr"
 msgstr ""
@@ -821,20 +821,20 @@ msgstr ""
 
 msgid "Cz33_Vz_68_Squall_long_special"
 msgstr ""
-"The Vz. 68 Squall is a Czechoslovakian light tank with two 50 mm autocannons "
+"The Vz. 68 is a Czechoslovakian light tank with two 50 mm autocannons "
 "and good mobility. Its low profile and neat forms ensure sneaky movement "
 "across any terrain, while the autocannons offer some serious firepower. "
 "Utilize this Czech hunter appropriately and you'll be able to shred any thin-"
 "armored foe to pieces in just a couple of seconds!"
 
 msgid "Cz33_Vz_68_Squall_short"
-msgstr "Squall"
+msgstr "Vz. 68"
 
 msgid "Cz33_Vz_68_Squall_short_special"
 msgstr "Autocannon mechanic, excellent mobility"
 
 msgid "Cz34_Vz_71_Tesak"
-msgstr "Vz. 71 Tesák"
+msgstr "Vz. 71"
 
 msgid "Cz34_Vz_71_Tesak_descr"
 msgstr ""
@@ -852,7 +852,7 @@ msgstr ""
 "missile armament thus became irrelevant."
 
 msgid "Cz34_Vz_71_Tesak_short"
-msgstr "Tesák"
+msgstr "Vz. 71"
 
 msgid "Cz35_T56_G"
 msgstr "TT-130M"
@@ -903,7 +903,7 @@ msgid "Cz36_Jezevec_short_special"
 msgstr "?empty?"
 
 msgid "Cz37_SDT_58_Vlkodav"
-msgstr "SDT-58 Vlkodav"
+msgstr "SDT-58"
 
 msgid "Cz37_SDT_58_Vlkodav_desc"
 msgstr ""
@@ -921,13 +921,13 @@ msgstr ""
 
 msgid "Cz37_SDT_58_Vlkodav_long_special"
 msgstr ""
-"The SDT-58 Vlkodav is a versatile Tier IX medium tank with decent mobility "
+"The SDT-58 is a versatile Tier IX medium tank with decent mobility "
 "and survivability. It is equipped with a 105 mm double gun system that "
 "causes massive damage with increased stabilization during preparation of the "
 "salvo."
 
 msgid "Cz37_SDT_58_Vlkodav_short"
-msgstr "Vlkodav"
+msgstr "SDT-58"
 
 msgid "Cz37_SDT_58_Vlkodav_short_special"
 msgstr "Double gun system, good single-shot damage"
@@ -1020,15 +1020,15 @@ msgid "Cz40_DBV_152_short_special"
 msgstr "Decent damage per shot, good dynamics"
 
 msgid "Cz43_Ogar"
-msgstr "ZŤS Vz.63-1 Ogar"
+msgstr "ZŤS Vz. 63-1"
 
 msgid "Cz43_Ogar_descr"
 msgstr ""
 "By the mid-1960s, the Czechoslovak Army was planning to obtain a license to "
 "produce the Soviet T-55 medium tank. Alongside this they were considering an "
 "alternative option—a homegrown tank with similar technical characteristics. "
-"By 1964, they had prepared a concept for a vehicle designated ZŤS Vz.63-1 "
-"Ogar combining the best solutions of the Soviet and Czechoslovakian tank-"
+"By 1964, they had prepared a concept for a vehicle designated ZŤS Vz. 63-1 "
+"combining the best solutions of the Soviet and Czechoslovakian tank-"
 "building schools. However, analysis of all the benefits and drawbacks made "
 "it clear that producing a licensed copy of the T-55 with Soviet technologies "
 "would be far cheaper than setting up production of a new Czechoslovakian "
@@ -1037,14 +1037,14 @@ msgstr ""
 
 msgid "Cz43_Ogar_long_special"
 msgstr ""
-"The ZŤS Vz.63-1 Ogar is a Tier IX Czechoslovakian medium tank. The vehicle "
+"The ZŤS Vz. 63-1 is a Tier IX Czechoslovakian medium tank. The vehicle "
 "has a gas-turbine engine, which enables its good mobility to become "
 "exceptional. The armor is not completely reliable, but it does forgive "
 "mistakes at times. The vehicle also has plenty of firepower, with a well-"
 "balanced gun."
 
 msgid "Cz43_Ogar_short"
-msgstr "Ogar"
+msgstr "ZŤS Vz. 63-1"
 
 msgid "Cz43_Ogar_short_special"
 msgstr "Gas-turbine engine, comfortable gun"
@@ -1287,7 +1287,7 @@ msgid "Turret_1_Cz14_Skoda_T-56"
 msgstr "T-56"
 
 msgid "Turret_1_Cz14_Skoda_T-56_WT24_3Dst"
-msgstr "Projekt ION"
+msgstr "Škoda T 56"
 
 msgid "Turret_1_Cz15_Skoda_T-45_Prem"
 msgstr "T-45"
@@ -1311,13 +1311,13 @@ msgid "Turret_1_Cz20_ShPTK_TVP_100_mm"
 msgstr "ShPTK-TVP vz. 48"
 
 msgid "Turret_1_Cz20_ShPTK_TVP_100_mm_CO"
-msgstr "Šotek"
+msgstr "ShPTK-TVP vz. 48"
 
 msgid "Turret_1_Cz21_Vz_60S"
 msgstr "Vz. 60S"
 
 msgid "Turret_1_Cz21_Vz_60S_Dravec"
-msgstr "Vz. 60S Dravec"
+msgstr "Vz. 60S"
 
 msgid "Turret_1_Cz22_Skoda_T_15A"
 msgstr "Škoda T 15A"
@@ -1326,10 +1326,10 @@ msgid "Turret_1_Cz23_Skoda_T_17"
 msgstr "Škoda T 17 první model"
 
 msgid "Turret_1_Cz24_Vz_64_Blesk"
-msgstr "Vz. 64 Blesk první model"
+msgstr "Vz. 64 první model"
 
 msgid "Turret_1_Cz28_LPT_67_Selma"
-msgstr "LPT-67 Šelma první model"
+msgstr "LPT-67 první model"
 
 msgid "Turret_1_Cz29_Pzw_39"
 msgstr "Panzerwagen 39"
@@ -1338,13 +1338,13 @@ msgid "Turret_1_Cz30_TBT"
 msgstr "TBT"
 
 msgid "Turret_1_Cz32_Vz_58_Koncept"
-msgstr "Vz. 58 Medvěd"
+msgstr "Vz. 58K"
 
 msgid "Turret_1_Cz33_Vz_68_Squall"
-msgstr "Vz. 68 Squall"
+msgstr "Vz. 68"
 
 msgid "Turret_1_Cz34_Vz_71_Tesak"
-msgstr "Vz. 71 Tesák"
+msgstr "Vz. 71"
 
 msgid "Turret_1_Cz35_T56_G"
 msgstr "TT-130M"
@@ -1353,7 +1353,7 @@ msgid "Turret_1_Cz36_Jezevec"
 msgstr "Jezevec"
 
 msgid "Turret_1_Cz37_SDT_58_Vlkodav"
-msgstr "SDT-58 Vlkodav"
+msgstr "SDT-58"
 
 msgid "Turret_1_Cz38_SZDV_vz50"
 msgstr "SZDV Vz. 50"
@@ -1365,7 +1365,7 @@ msgid "Turret_1_Cz40_DBV_152"
 msgstr "DBV-152"
 
 msgid "Turret_1_Cz43_Ogar"
-msgstr "Ogar"
+msgstr "ZŤS Vz. 63-1"
 
 msgid "Turret_2_Cz02_TVP_T50"
 msgstr "Škoda T 50 (1950)"
@@ -1404,10 +1404,10 @@ msgid "Turret_2_Cz23_Skoda_T_17"
 msgstr "Škoda T 17 druhý model"
 
 msgid "Turret_2_Cz24_Vz_64_Blesk"
-msgstr "Vz. 64 Blesk druhý model"
+msgstr "Vz. 64 druhý model"
 
 msgid "Turret_2_Cz28_LPT_67_Selma"
-msgstr "LPT-67 Šelma druhý model"
+msgstr "LPT-67 druhý model"
 
 msgid "UTD_20_64"
 msgstr "UTD-20-64"
