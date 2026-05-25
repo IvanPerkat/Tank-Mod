@@ -15,7 +15,6 @@ Below is complete list of all renamed vehicles categorized by tier and nation.
 | **IX** | Yong Bing | BZ-63-II |
 | **X** | Monkey King | 113 |
 
-
 ### Czechoslovakia
 
 | Tier | Original | Changed |
@@ -32,3 +31,18 @@ Below is complete list of all renamed vehicles categorized by tier and nation.
 | **X** | Vz. 55 | TNH T vz. 55 |
 | **X** | Tesák | Vz. 71 |
 | **X** | Dravec | Vz. 60S |
+
+### France
+
+| Tier | Original | Changed |
+| :---: | :---: | :---: |
+| **VIII** | Lynx 6x6 | ERC 90 |
+| **VIII** | Bourrasque | B-C 12 t bis |
+| **VIII** | Miel | B-C 12 t bis |
+| **VIII** | Brennos | AMX M4 47 |
+| **VIII** | Alby | Lorraine 120 |
+| **IX** | Vercingétorix | FCM 60 t |
+| **IX** | Sentinelle | Char Lourd 60 t |
+| **IX** | Leox | Proyecto LEOX |
+| **IX** | Imbattable | AMX 67 |
+| **IX** | Fauteur | AMX M4 70 |
