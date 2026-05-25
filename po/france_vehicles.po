@@ -397,10 +397,10 @@ msgid "Chassis_F10_AMX_50B"
 msgstr "AMX 50 B"
 
 msgid "Chassis_F110_Lynx_6x6"
-msgstr "Panhard AML Lynx 6x6"
+msgstr "Panhard ERC 90"
 
 msgid "Chassis_F110_Lynx_6x6_2"
-msgstr "Panhard AML Lynx 6x6 bis"
+msgstr "Panhard AML ERC 90 bis"
 
 msgid "Chassis_F111_AM39_Gendron_Somua"
 msgstr "AM 39 Gendron-Somua"
@@ -454,25 +454,25 @@ msgid "Chassis_F129_ARL_44_BPXIV"
 msgstr "ARL 44 bis"
 
 msgid "Chassis_F130_Sentinelle"
-msgstr "Sentinelle"
+msgstr "Char Lourd 60 t"
 
 msgid "Chassis_F131_Brennos"
-msgstr "Brennos"
+msgstr "AMX M4 47"
 
 msgid "Chassis_F132_Vercingetorix"
-msgstr "Vercingétorix"
+msgstr "FCM 60 t"
 
 msgid "Chassis_F134_Lorraine_120_Alby"
-msgstr "Lorraine 120 Alby"
+msgstr "Lorraine 120"
 
 msgid "Chassis_F135_AS_XX_40_t"
 msgstr "AS-XX 40 t"
 
 msgid "Chassis_F136_AMX_67_Imbattable"
-msgstr "AMX 67 Imbattable"
+msgstr "AMX 67"
 
 msgid "Chassis_F137_LEOX"
-msgstr "Leox"
+msgstr "Proyecto LEOX"
 
 msgid "Chassis_F138_Renault_R35_FCM_36"
 msgstr "Renault R35"
@@ -493,7 +493,7 @@ msgid "Chassis_F141_Durendal"
 msgstr "Durendal"
 
 msgid "Chassis_F143_Fauteur"
-msgstr "Fauteur"
+msgstr "AMX M4 70"
 
 msgid "Chassis_F14_AMX40"
 msgstr "AMX 40"
@@ -1049,7 +1049,7 @@ msgid "F10_AMX_50B_short"
 msgstr "AMX 50 B"
 
 msgid "F110_Lynx_6x6"
-msgstr "Panhard AML Lynx 6x6"
+msgstr "Panhard ERC 90"
 
 msgid "F110_Lynx_6x6_descr"
 msgstr ""
@@ -1057,7 +1057,7 @@ msgstr ""
 "drive suspension, new turret, and more powerful armament."
 
 msgid "F110_Lynx_6x6_short"
-msgstr "Lynx 6x6"
+msgstr "ERC 90"
 
 msgid "F111_AM39_Gendron_Somua"
 msgstr "AM 39 Gendron-Somua"
@@ -1185,10 +1185,10 @@ msgid "F115_Lorraine_50t_short_special"
 msgstr "Nice dynamics and an accurate gun"
 
 msgid "F116_Bat_Chatillon_Bourrasque"
-msgstr "Bat.-Châtillon Bourrasque"
+msgstr "Bat.-Châtillon 12 t bis"
 
 msgid "F116_Bat_Chatillon_Bourrasque_DV"
-msgstr "Miel"
+msgstr "Bat.-Châtillon 12 t bis"
 
 msgid "F116_Bat_Chatillon_Bourrasque_DV_descr"
 msgstr ""
@@ -1208,7 +1208,7 @@ msgstr ""
 "back to reload another one."
 
 msgid "F116_Bat_Chatillon_Bourrasque_DV_short"
-msgstr "Miel"
+msgstr "B-C 12 t bis"
 
 msgid "F116_Bat_Chatillon_Bourrasque_DV_short_special"
 msgstr "Good mobility and concealment, effective magazine"
@@ -1228,7 +1228,7 @@ msgstr ""
 "back to reload another one."
 
 msgid "F116_Bat_Chatillon_Bourrasque_short"
-msgstr "Bourrasque"
+msgstr "B-C 12 t bis"
 
 msgid "F116_Bat_Chatillon_Bourrasque_short_special"
 msgstr "Good mobility and concealment, effective magazine"
@@ -1509,12 +1509,12 @@ msgid "F129_ARL_44_BPXIV_short_special"
 msgstr "Powerful gun, good frontal armor"
 
 msgid "F130_Sentinelle"
-msgstr "Sentinelle"
+msgstr "Char Lourd 60 t"
 
 msgid "F130_Sentinelle_descr"
 msgstr ""
 "A joint project of the Italian and French defense ministries that was given "
-"the name Sentinelle. The Char Lourd AP 58 was used as the basis for the "
+"the name Char Lourd 60 t. The Char Lourd AP 58 was used as the basis for the "
 "vehicle and the turret and armament were Italian, while the optics and comms "
 "equipment were French. The tank was intended to have a fairly low silhouette "
 "and powerful armament. However, due to ammo standardization under NATO, the "
@@ -1523,20 +1523,20 @@ msgstr ""
 
 msgid "F130_Sentinelle_long_special"
 msgstr ""
-"The Sentinelle is a Tier IX French heavy tank, but its mobility, size, and "
+"The Char Lourd 60 t is a Tier IX French heavy tank, but its mobility, size, and "
 "armor resemble those of a medium tank—only the turret front is well-armored. "
 "Its main feature is a fast two-shell magazine with good handling and 390 HP "
 "of damage per shot. Its small size, good mobility, and decent gun depression "
 "make it effective from medium tank positions."
 
 msgid "F130_Sentinelle_short"
-msgstr "Sentinelle"
+msgstr "Char Lourd 60 t"
 
 msgid "F130_Sentinelle_short_special"
 msgstr "Fast autoloader, good mobility"
 
 msgid "F131_Brennos"
-msgstr "Brennos"
+msgstr "AMX M4 47"
 
 msgid "F131_Brennos_descr"
 msgstr ""
@@ -1555,19 +1555,19 @@ msgstr ""
 
 msgid "F131_Brennos_long_special"
 msgstr ""
-"The Brennos has a comfortable gun for a Tier VIII heavy, with great "
+"The AMX M4 47 has a comfortable gun for a Tier VIII heavy, with great "
 "stabilization, penetration power, and aiming time. Its powerful engine "
 "enables quick acceleration and short sprints. However, the tank has mediocre "
 "hull armor and large turret weak spots."
 
 msgid "F131_Brennos_short"
-msgstr "Brennos"
+msgstr "AMX M4 47"
 
 msgid "F131_Brennos_short_special"
 msgstr "Great stabilization, good penetration power"
 
 msgid "F132_Vercingetorix"
-msgstr "Vercingétorix"
+msgstr "FCM 60 t"
 
 msgid "F132_Vercingetorix_descr"
 msgstr ""
@@ -1581,19 +1581,19 @@ msgstr ""
 
 msgid "F132_Vercingetorix_long_special"
 msgstr ""
-"The Vercingétorix is a Tier IX French medium tank with armor, armament, and "
+"The FCM 60 t is a Tier IX French medium tank with armor, armament, and "
 "mobility closer to a heavy. It has reliable turret armor and a 120 mm gun "
 "suitable for close combat. Its key feature is a gas-turbine engine enabling "
 "Rapid mode, turning it into a true medium tank for fast repositioning."
 
 msgid "F132_Vercingetorix_short"
-msgstr "Vercingétorix"
+msgstr "FCM 60 t"
 
 msgid "F132_Vercingetorix_short_special"
 msgstr "Gas-turbine engine, reliable turret armor"
 
 msgid "F134_Lorraine_120_Alby"
-msgstr "Lorraine 120 Alby"
+msgstr "Lorraine 120"
 
 msgid "F134_Lorraine_120_Alby_descr"
 msgstr ""
@@ -1614,14 +1614,14 @@ msgstr ""
 
 msgid "F134_Lorraine_120_Alby_long_special"
 msgstr ""
-"The Lorraine 120 Alby is a French Tier VIII tank destroyer. It follows "
+"The Lorraine 120 is a French Tier VIII tank destroyer. It follows "
 "classic French TD principles: a low profile, good mobility, solid front "
 "armor, and a 120 mm autoloading gun. Its key feature is a movable "
 "superstructure with the gun, allowing 30° traverse to each side without "
 "shifting the hull."
 
 msgid "F134_Lorraine_120_Alby_short"
-msgstr "Alby"
+msgstr "Lorraine 120"
 
 msgid "F134_Lorraine_120_Alby_short_special"
 msgstr "Autoloader, good frontal armor"
@@ -1653,14 +1653,14 @@ msgid "F135_AS_XX_40_t_short"
 msgstr "AS-XX 40 t"
 
 msgid "F136_AMX_67_Imbattable"
-msgstr "AMX 67 Imbattable"
+msgstr "AMX 67"
 
 msgid "F136_AMX_67_Imbattable_descr"
 msgstr ""
 "Toward the end of the 1960s, the French were using modern AMX-30 tanks "
 "capable of effective resistance against armored vehicles of a potential "
 "enemy. At the same time, they were developing vehicles with more impressive "
-"armor, among which was the AMX 67 Imbattable. The tank was notable for its "
+"armor, among which was the AMX 67. The tank was notable for its "
 "powerful armament capable of striking targets a long range, as well as a "
 "high fire rate. The vehicle's key feature was placement of the gun in a low-"
 "profile turret with an overhead weapon station equipped with an autoloader. "
@@ -1668,17 +1668,17 @@ msgstr ""
 
 msgid "F136_AMX_67_Imbattable_long_special"
 msgstr ""
-"Unusually for a heavy tank, the AMX 67 Imbattable trades reliable armor for "
+"Unusually for a heavy tank, the AMX 67 trades reliable armor for "
 "impressive mobility and a well-balanced autoloading gun. On the battlefield, "
 "it excels in a supporting role, assisting allies with concentrated fire when "
 "it matters most—with its experimental loading system ensuring it remains "
 "ready to strike at a moment's notice."
 
 msgid "F136_AMX_67_Imbattable_short"
-msgstr "Imbattable"
+msgstr "AMX 67"
 
 msgid "F137_LEOX"
-msgstr "Leox"
+msgstr "Proyecto LEOX"
 
 msgid "F137_LEOX_descr"
 msgstr ""
@@ -1695,14 +1695,14 @@ msgstr ""
 
 msgid "F137_LEOX_long_special"
 msgstr ""
-"The Leox is a Tier IX French medium tank. It boasts a powerful engine which "
+"The Proyecto LEOX is a Tier IX French medium tank. It boasts a powerful engine which "
 "allows the vehicle to achieve impressive speeds, repositioning to any part "
 "of the battlefield at short notice. Additionally, the vehicle’s accurate gun "
 "allows it to inflict critical damage to a vast number of enemies from all "
 "possible ranges."
 
 msgid "F137_LEOX_short"
-msgstr "Leox"
+msgstr "Proyecto LEOX"
 
 msgid "F137_LEOX_short_special"
 msgstr "Impressive top speed, high penetration"
@@ -1816,7 +1816,7 @@ msgid "F141_Durendal_short_special"
 msgstr "Autoloader with containers, good mobility"
 
 msgid "F143_Fauteur"
-msgstr "Fauteur"
+msgstr "AMX M4 70"
 
 msgid "F143_Fauteur_descr"
 msgstr ""
@@ -1831,13 +1831,13 @@ msgstr ""
 
 msgid "F143_Fauteur_long_special"
 msgstr ""
-"The Fauteur is the product of a reliable heavy tank formula and advanced "
+"The AMX M4 70 is the product of a reliable heavy tank formula and advanced "
 "propellant manipulations, giving a formidable vehicle that is well-suited to "
 "both close- and long-range combat. Good armor lets it withstand enemy fire, "
 "while decent mobility gets its firepower closer to the front lines."
 
 msgid "F143_Fauteur_short"
-msgstr "Fauteur"
+msgstr "AMX M4 70"
 
 msgid "F14_AMX40"
 msgstr "AMX 40"
@@ -3453,7 +3453,7 @@ msgid "Turret_1_F10_AMX_50B"
 msgstr "AMX 50 B"
 
 msgid "Turret_1_F110_Lynx_6x6"
-msgstr "Panhard AML Lynx 6x6"
+msgstr "Panhard ERC 90"
 
 msgid "Turret_1_F111_AM39_Gendron_Somua"
 msgstr "AM 39 Gendron-Somua"
@@ -3504,25 +3504,25 @@ msgid "Turret_1_F128_SFAC_105"
 msgstr "SFAC 105"
 
 msgid "Turret_1_F130_Sentinelle"
-msgstr "Sentinelle"
+msgstr "Char Lourd 60 t"
 
 msgid "Turret_1_F131_Brennos"
-msgstr "Brennos"
+msgstr "AMX M4 47"
 
 msgid "Turret_1_F132_Vercingetorix"
-msgstr "Vercingétorix"
+msgstr "FCM 60 t"
 
 msgid "Turret_1_F134_Lorraine_120_Alby"
-msgstr "Lorraine 120 Alby"
+msgstr "Lorraine 120"
 
 msgid "Turret_1_F135_AS_XX_40_t"
 msgstr "AS-XX 40 t"
 
 msgid "Turret_1_F136_AMX_67_Imbattable"
-msgstr "AMX 67 Imbattable"
+msgstr "AMX 67"
 
 msgid "Turret_1_F137_LEOX"
-msgstr "Leox"
+msgstr "Proyecto LEOX"
 
 msgid "Turret_1_F138_Renault_R35_FCM_36"
 msgstr "FCM 36"
@@ -3540,7 +3540,7 @@ msgid "Turret_1_F141_Durendal"
 msgstr "Durendal"
 
 msgid "Turret_1_F143_Fauteur"
-msgstr "Fauteur"
+msgstr "AMX M4 70"
 
 msgid "Turret_1_F14_AMX40"
 msgstr "AMX 40"
@@ -4893,7 +4893,7 @@ msgid "_75mm_OCC_mle_54"
 msgstr "OCC mle. 54"
 
 msgid "_75mm_OCC_mle_54_Lynx"
-msgstr "OCC mle. 54 (Lynx)"
+msgstr "OCC mle. 54 (ERC 90)"
 
 msgid "_75mm_OCO_mle._1926"
 msgstr "OCO mle. 1926"
@@ -4977,13 +4977,13 @@ msgid "_75mm_OE_mle_54"
 msgstr "OE mle.54"
 
 msgid "_75mm_OE_mle_54_Lynx"
-msgstr "OE mle. 54 (Lynx)"
+msgstr "OE mle. 54 (ERC 90)"
 
 msgid "_75mm_OFL_mle_54"
 msgstr "OFL mle. 54"
 
 msgid "_75mm_OFL_mle_54_Lynx"
-msgstr "OFL mle. 54 (Lynx)"
+msgstr "OFL mle. 54 (ERC 90)"
 
 msgid "_75mm_Odr_mle.1910"
 msgstr "ODR mle. 1910"
@@ -5258,7 +5258,7 @@ msgid "_90mm_OCC_90_SH"
 msgstr "Prf. 90"
 
 msgid "_90mm_OCC_Lynx"
-msgstr "OCC (Lynx)"
+msgstr "OCC (ERC 90)"
 
 msgid "_90mm_OE_90"
 msgstr "OE"
@@ -5276,7 +5276,7 @@ msgid "_90mm_OE_F3"
 msgstr "OE (F3)"
 
 msgid "_90mm_OE_Lynx"
-msgstr "OE (Lynx)"
+msgstr "OE (ERC 90)"
 
 msgid "_90mm_OE_mle_1924"
 msgstr "OE mle. 1924"
@@ -5342,7 +5342,7 @@ msgid "_90mm_OFL_F3_VCS"
 msgstr "OFL F3 (VCS)"
 
 msgid "_90mm_OFL_Lynx"
-msgstr "OFL (Lynx)"
+msgstr "OFL (ERC 90)"
 
 msgid "_90mm_POT_90_D_919"
 msgstr "POT-90 D. 919"
