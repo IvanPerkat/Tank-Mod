@@ -46,3 +46,19 @@ Below is complete list of all renamed vehicles categorized by tier and nation.
 | **IX** | Leox | Proyecto LEOX |
 | **IX** | Imbattable | AMX 67 |
 | **IX** | Fauteur | AMX M4 70 |
+
+### U.K.
+
+| Tier | Original | Changed |
+| :---: | :---: | :---: |
+| **VII** | Chopper | FV224 |
+| **VIII** | Conceiver | FV226 |
+| **VIII** | Contradictious | FV227 |
+| **VIII** | Jade Coil | GSOR 1008 |
+| **VIII** | Nergal | Crusher |
+| **VIII** | Nomad | Charioteer |
+| **IX** | Contender | FV229 |
+| **X** | Canopener | FV230 |
+| **X** | Gryphon | FV4201/1B |
+| **XI** | Executor | Rooikat MTTD |
+| **XI** | Contriver | FV4025 |
