@@ -161,7 +161,7 @@ msgid "Chassis_It13_Progetto_M35_mod_46"
 msgstr "Progetto M35 mod. 46"
 
 msgid "Chassis_It13_Progetto_M35_mod_46_LE"
-msgstr "Mars"
+msgstr "Progetto 46"
 
 msgid "Chassis_It14_P44_Pantera"
 msgstr "P.44 Pantera"
@@ -170,7 +170,7 @@ msgid "Chassis_It14_P44_Pantera_2"
 msgstr "P.44 Pantera v.s."
 
 msgid "Chassis_It15_Rinoceronte"
-msgstr "Rinoceronte"
+msgstr "Progetto C50 mod. 60/70"
 
 msgid "Chassis_It16_Carro_d_assalto_P88"
 msgstr "P.88 mod. 42"
@@ -185,7 +185,7 @@ msgid "Chassis_It17_Progetto_CC55_mod_54_2"
 msgstr "Progetto CC55 mod. 54 B"
 
 msgid "Chassis_It18_Progetto_C45_mod_71"
-msgstr "Bisonte C45"
+msgstr "Progetto C45 mod. 71"
 
 msgid "Chassis_It19_Progetto_C50_mod_66"
 msgstr "Progetto C50 tipo A"
@@ -197,7 +197,7 @@ msgid "Chassis_It20_Carro_Combattimento_45t"
 msgstr "Carro mod. 67 A1"
 
 msgid "Chassis_It21_Lion"
-msgstr "Lion"
+msgstr "Leone"
 
 msgid "Chassis_It23_CC_3"
 msgstr "CC 3"
@@ -245,22 +245,22 @@ msgid "Chassis_It33_Prototipo_6"
 msgstr "Prototipo 6"
 
 msgid "Chassis_It34_Toro"
-msgstr "Toro"
+msgstr "Progetto C52 mod. 57p"
 
 msgid "Chassis_It35_Felice"
-msgstr "Felice"
+msgstr "Prototipo 6 mod. 2"
 
 msgid "Chassis_It36_Progetto_C45_mod_71_M"
-msgstr "Stone Sentinel"
+msgstr "Progetto C45 mod. 71"
 
 msgid "Chassis_It37_Serpente"
-msgstr "Serpente"
+msgstr "Progetto 66d"
 
 msgid "Chassis_It39_Coccodrillo"
-msgstr "Coccodrillo"
+msgstr "Progetto 61/65"
 
 msgid "Chassis_It40_Predatore"
-msgstr "Predatore"
+msgstr "Progetto M42 mod. 57"
 
 msgid "Continental_AOI_1490_italy"
 msgstr "Continental AOI-1490-I"
@@ -466,7 +466,7 @@ msgid "It13_Progetto_M35_mod_46"
 msgstr "Progetto M35 mod. 46"
 
 msgid "It13_Progetto_M35_mod_46_LE"
-msgstr "Mars"
+msgstr "Progetto 46"
 
 msgid "It13_Progetto_M35_mod_46_LE_descr"
 msgstr ""
@@ -488,7 +488,7 @@ msgstr ""
 "whole magazine."
 
 msgid "It13_Progetto_M35_mod_46_LE_short"
-msgstr "Mars"
+msgstr "Progetto 46"
 
 msgid "It13_Progetto_M35_mod_46_LE_short_special"
 msgstr "Great mobility, an autoreloader, and a unique exterior"
@@ -525,7 +525,7 @@ msgid "It14_P44_Pantera_short"
 msgstr "P.44 Pantera"
 
 msgid "It15_Rinoceronte"
-msgstr "Rinoceronte"
+msgstr "Progetto C50 60/70"
 
 msgid "It15_Rinoceronte_descr"
 msgstr ""
@@ -540,7 +540,7 @@ msgstr ""
 "discontinued at the drafting stage."
 
 msgid "It15_Rinoceronte_short"
-msgstr "Rinoceronte"
+msgstr "Progetto 60/70"
 
 msgid "It16_Carro_d_assalto_P88"
 msgstr "Carro d'assalto P.88"
@@ -569,7 +569,7 @@ msgid "It17_Progetto_CC55_mod_54_short"
 msgstr "Progetto 54"
 
 msgid "It18_Progetto_C45_mod_71"
-msgstr "Bisonte C45"
+msgstr "Progetto C45 mod. 71"
 
 msgid "It18_Progetto_C45_mod_71_descr"
 msgstr ""
@@ -580,7 +580,7 @@ msgstr ""
 "However, no prototypes were built."
 
 msgid "It18_Progetto_C45_mod_71_short"
-msgstr "Bisonte C45"
+msgstr "Progetto 71"
 
 msgid "It18_Progetto_C45_mod_71_short_special"
 msgstr "A unique gun and spaced armor"
@@ -621,7 +621,7 @@ msgid "It20_Carro_Combattimento_45t_short_special"
 msgstr "Reliable armor and an autoreloading system"
 
 msgid "It21_Lion"
-msgstr "Lion"
+msgstr "Leone"
 
 msgid "It21_Lion_descr"
 msgstr ""
@@ -629,29 +629,29 @@ msgstr ""
 "and successfully mastered the production of the Leopard 1 and M60 Patton. At "
 "the same time, the development of their own combat vehicles continued, "
 "although their designs were largely based on foreign creations. The "
-"country's debut model was designated the Lion. Despite its similarities with "
+"country's debut model was designated the Leone. Despite its similarities with "
 "the Leopard 1 and Leopard 1A3, the vehicles differed significantly, "
 "especially in the turret. The first trials of the tank were conducted in "
 "1977, but the vehicle never saw mass production. After the release of the "
-"more advanced Leopard 2 in 1978, the Lion was rendered obsolete. "
+"more advanced Leopard 2 in 1978, the Leone was rendered obsolete. "
 "Nevertheless, it was considered a milestone vehicle that provided immense "
 "experience and expertise in the creation of other armored vehicles."
 
 msgid "It21_Lion_long_special"
 msgstr ""
-"A special Tier X Italian medium tank. When looking at the Lion, you can "
+"A special Tier X Italian medium tank. When looking at the Leone, you can "
 "notice the features of German post-war vehicles. The tank is equipped with a "
 "powerful and accurate gun, as well as an autoreloading system that allows it "
 "to be incredibly effective in supporting allies with fire."
 
 msgid "It21_Lion_short"
-msgstr "Lion"
+msgstr "Leone"
 
 msgid "It21_Lion_short_special"
 msgstr "A great gun and an autoreloading system"
 
 msgid "It23_CC_3"
-msgstr "Controcarro 3 Minotauro"
+msgstr "Controcarro 3"
 
 msgid "It23_CC_3_7x7"
 msgstr "Controcarro 3 7x7"
@@ -676,7 +676,7 @@ msgstr ""
 "turret with limited gun traverse, as well as its mechanized loading system."
 
 msgid "It23_CC_3_short"
-msgstr "Minotauro"
+msgstr "CC-3"
 
 msgid "It24_Controcarro_1_Mk2"
 msgstr "Controcarro 1 Mk. 2"
@@ -786,7 +786,7 @@ msgid "It29_Carro_Celere_Sahariano_short_special"
 msgstr "An accurate gun and good concealment"
 
 msgid "It30_CC_mod_64_Prem"
-msgstr "SMV CC-64 Vipera"
+msgstr "SMV CC-64"
 
 msgid "It30_CC_mod_64_Prem_descr"
 msgstr ""
@@ -807,7 +807,7 @@ msgstr ""
 "and choose non-standard positions."
 
 msgid "It30_CC_mod_64_Prem_short"
-msgstr "Vipera"
+msgstr "SMV CC-64"
 
 msgid "It30_CC_mod_64_Prem_short_special"
 msgstr "A rotating turret, reliable armor, and a magazine loading system"
@@ -854,7 +854,7 @@ msgid "It33_Prototipo_6_short_special"
 msgstr "Autoreloader gun, high dynamics"
 
 msgid "It34_Toro"
-msgstr "Toro"
+msgstr "Progetto C52 mod. 57p"
 
 msgid "It34_Toro_descr"
 msgstr ""
@@ -868,20 +868,20 @@ msgstr ""
 
 msgid "It34_Toro_long_special"
 msgstr ""
-"The Toro is an Italian heavy tank with a classic improved autoreloading "
+"The Progetto C52 mod. 57p is an Italian heavy tank with a classic improved autoreloading "
 "system and a good combination of average damage per shot, relatively fast in-"
 "clip reload, and separate shell reload. Its solid turret armor can help it "
 "withstand serious enemy fire, while its great mobility ensures this \"bull\" "
 "is always at the heart of the action!"
 
 msgid "It34_Toro_short"
-msgstr "Toro"
+msgstr "Progetto 57p"
 
 msgid "It34_Toro_short_special"
 msgstr "Improved autoreloading system, good mobility"
 
 msgid "It35_Felice"
-msgstr "Felice"
+msgstr "Prototipo 6 mod. 2"
 
 msgid "It35_Felice_descr"
 msgstr ""
@@ -902,20 +902,20 @@ msgstr ""
 
 msgid "It35_Felice_long_special"
 msgstr ""
-"The Felice is an Italian medium tank with some unusual engineering features. "
+"The Prototipo 6/2 is an Italian medium tank with some unusual engineering features. "
 "Armor plates taken from the Controcarro-1 proved reliable, while the basis "
 "of the vehicle was created around the Prototipo-6 design. As well as "
 "survivability improvements, the vehicle received a mighty 127 mm gun "
 "superior to most of its competitors'."
 
 msgid "It35_Felice_short"
-msgstr "Felice"
+msgstr "Prototipo 6/2"
 
 msgid "It35_Felice_short_special"
 msgstr "Thick turret armor, powerful gun"
 
 msgid "It36_Progetto_C45_mod_71_M"
-msgstr "Stone Sentinel"
+msgstr "Progetto C45 mod. 71"
 
 msgid "It36_Progetto_C45_mod_71_M_descr"
 msgstr ""
@@ -941,13 +941,13 @@ msgstr ""
 "together with allied heavy vehicles."
 
 msgid "It36_Progetto_C45_mod_71_M_short"
-msgstr "Stone Sentinel"
+msgstr "Progetto 71"
 
 msgid "It36_Progetto_C45_mod_71_M_short_special"
 msgstr "A unique gun and spaced armor"
 
 msgid "It37_Serpente"
-msgstr "Serpente"
+msgstr "Progetto M33 mod. 66d"
 
 msgid "It37_Serpente_descr"
 msgstr ""
@@ -964,69 +964,69 @@ msgstr ""
 
 msgid "It37_Serpente_long_special"
 msgstr ""
-"The Serpente is a Tier IX Italian medium tank. Unlike most Italian mediums, "
+"The Progetto 66d is a Tier IX Italian medium tank. Unlike most Italian mediums, "
 "it boasts a double gun system instead of an autoreloader, allowing it to "
 "deliver fast, accurate salvos. Its armor offers only basic protection, but "
 "this is offset by the vehicle's excellent mobility."
 
 msgid "It37_Serpente_short"
-msgstr "Serpente"
+msgstr "Progetto 66d"
 
 msgid "It37_Serpente_short_special"
 msgstr "Double gun system, good mobility"
 
 msgid "It39_Coccodrillo"
-msgstr "Coccodrillo"
+msgstr "Progetto 61/65"
 
 msgid "It39_Coccodrillo_descr"
 msgstr ""
 "In 1961, after receiving intel on the U.S.S.R.'s T-10M heavy tank, the "
 "Italian military decided to build their own tank that could fight the Soviet "
 "opponent. Preparation of tech specs was delayed, and development only began "
-"in 1965. The vehicle was designated as the Coccodrillo and intended as a "
+"in 1965. The vehicle was designated as the Progetto 61/65 and intended as a "
 "support medium tank. By 1970, the project was largely completed; however, by "
 "that time, Italy had started licensed production of the Leopard 1. As a "
-"result, the country took the Coccodrillo project no further due to high "
+"result, the country took the Progetto 61/65 project no further due to high "
 "costs and low mobility compared to the German vehicle."
 
 msgid "It39_Coccodrillo_long_special"
 msgstr ""
-"The Coccodrillo is a Tier X Italian medium tank. In its unusual layout, both "
+"The Progetto 61/65 is a Tier X Italian medium tank. In its unusual layout, both "
 "turret and hull front armor plates are very well angled. The mobility of the "
 "vehicle is rather decent, but the main surprise lies in the armament. This "
 "vehicle is equipped with an autoreloading 127 mm gun, which can cause a lot "
 "of damage to enemies."
 
 msgid "It39_Coccodrillo_short"
-msgstr "Coccodrillo"
+msgstr "Progetto 61/65"
 
 msgid "It39_Coccodrillo_short_special"
 msgstr "Decent armor and mobility, autoreloader"
 
 msgid "It40_Predatore"
-msgstr "Predatore"
+msgstr "Progetto M42 mod. 57"
 
 msgid "It40_Predatore_descr"
 msgstr ""
-"In the late 1950s, Italy started developing the Predatore medium tank, "
+"In the late 1950s, Italy started developing the Progetto 57 medium tank, "
 "designed to replace the outdated M47 Patton. The vehicle was supposed to "
 "combine enhanced armor, powerful armament, high mobility, and low fuel "
 "usage. Instead of the self-proven torsion suspension, a dependent support "
 "system with rubber shock absorbers was proposed, reducing the chassis "
 "weight. By the mid-1960s, the project was closed. The military purchased "
-"imported mass-produced vehicles, and the Predatore remained at the blueprint "
+"imported mass-produced vehicles, and the Progetto 57 remained at the blueprint "
 "stage."
 
 msgid "It40_Predatore_long_special"
 msgstr ""
-"The Predatore is a Tier IX Italian medium tank. Following in the footsteps "
+"The Progetto 57 is a Tier IX Italian medium tank. Following in the footsteps "
 "of other Italian mediums, it has an accurate autoreloading gun with high "
 "first-shell DPM and very good mobility. An exceptional top speed lets the "
 "vehicle deliver its respectable firepower to anywhere on the battlefield and "
 "offsets its relative lack of armor."
 
 msgid "It40_Predatore_short"
-msgstr "Predatore"
+msgstr "Progetto 57"
 
 msgid "It40_Predatore_short_special"
 msgstr "Autoreloader, good mobility"
@@ -1245,13 +1245,13 @@ msgid "Turret_1_It13_Progetto_M35_mod_46"
 msgstr "Progetto M35 mod. 46"
 
 msgid "Turret_1_It13_Progetto_M35_mod_46_LE"
-msgstr "Mars"
+msgstr "Progetto M35 mod. 46"
 
 msgid "Turret_1_It14_P44_Pantera"
 msgstr "P.44 Pantera prima variante"
 
 msgid "Turret_1_It15_Rinoceronte"
-msgstr "Rinoceronte"
+msgstr "Progetto C50 mod. 60/70"
 
 msgid "Turret_1_It16_Carro_d_assalto_P88"
 msgstr "P.88 prima variante"
@@ -1260,7 +1260,7 @@ msgid "Turret_1_It17_Progetto_CC55_mod_54"
 msgstr "Progetto CC55 mod. 54 A"
 
 msgid "Turret_1_It18_Progetto_C45_mod_71"
-msgstr "Bisonte C45"
+msgstr "Progetto C45 mod. 71"
 
 msgid "Turret_1_It19_Progetto_C50_mod_66"
 msgstr "Progetto C50 tipo 1"
@@ -1269,7 +1269,7 @@ msgid "Turret_1_It20_Carro_Combattimento_45t"
 msgstr "Carro mod. 67"
 
 msgid "Turret_1_It21_Lion"
-msgstr "Lion"
+msgstr "Leone"
 
 msgid "Turret_1_It23_CC_3"
 msgstr "CC 3"
@@ -1302,22 +1302,22 @@ msgid "Turret_1_It33_Prototipo_6"
 msgstr "Prototipo 6"
 
 msgid "Turret_1_It34_Toro"
-msgstr "Toro"
+msgstr "Progetto C52 mod. 57p"
 
 msgid "Turret_1_It35_Felice"
-msgstr "Felice"
+msgstr "Prototipo 6 mod. 2"
 
 msgid "Turret_1_It36_Progetto_C45_mod_71_M"
-msgstr "Stone Sentinel"
+msgstr "Progetto C45 mod. 71"
 
 msgid "Turret_1_It37_Serpente"
-msgstr "Serpente"
+msgstr "Progetto 66d"
 
 msgid "Turret_1_It39_Coccodrillo"
-msgstr "Coccodrillo"
+msgstr "Progetto 61/65"
 
 msgid "Turret_1_It40_Predatore"
-msgstr "Predatore"
+msgstr "Progetto M42 mod. 57"
 
 msgid "Turret_2_It03_M15_42"
 msgstr "M15/42 modificata"
