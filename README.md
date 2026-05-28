@@ -52,8 +52,8 @@ Below is complete list of all renamed vehicles categorized by tier and nation.
 | Tier | Original | Changed |
 | :---: | :---: | :---: |
 | **VII** | Chopper | FV224 |
-| **VIII** | Conceiver | FV226 |
-| **VIII** | Contradictious | FV227 |
+| **VIII** | Conceiver | FV227 |
+| **VIII** | Contradictious | FV226 |
 | **VIII** | Jade Coil | GSOR 1008 |
 | **VIII** | Nergal | Crusher |
 | **VIII** | Nomad | Charioteer |
