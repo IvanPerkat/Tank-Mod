@@ -62,3 +62,19 @@ Below is complete list of all renamed vehicles categorized by tier and nation.
 | **X** | Gryphon | FV4201/1B |
 | **XI** | Executor | Rooikat MTTD |
 | **XI** | Contriver | FV4025 |
+
+### Germany 
+
+| Tier | Original | Changed |
+| :---: | :---: | :---: |
+| **VIII** | E 65 Zwilling | E 65 |
+| **VIII** | Skorpion | Rhm. Skorpion |
+| **VIII** | Skorpion G | Rhm. Skorpion |
+| **VIII** | White Dragon | Kpz 07 RH |
+| **VIII** | GST Turm | Kpz 3 GST |
+| **VIII** | Mauerebrecher | VK 168.01 P |
+| **VIII** | Windhund | Rhm. VT |
+| **IX** | TIII Jäger | KanJPz TIII |
+| **X** | Phönix | WT auf E 100 |
+| **XI** | Hirschkäfer | KanJPz Leopard |
+| **XI** | Borkenkäfer | LKpz 105 |
