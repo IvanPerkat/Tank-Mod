@@ -240,7 +240,7 @@ msgid "Chassis_GB109_GSOR_1008"
 msgstr "GSOR1008 Mk.1"
 
 msgid "Chassis_GB109_GSOR_1008_CFE_J"
-msgstr "Jade Coil"
+msgstr "GSOR 1008"
 
 msgid "Chassis_GB10_Black_Prince"
 msgstr "Black Prince"
@@ -336,10 +336,10 @@ msgid "Chassis_GB132_Taurus_CAT"
 msgstr "Frieseke & Hoepfner «Hydrop»"
 
 msgid "Chassis_GB133_Charioteer_MkVII"
-msgstr "Charioteer Nomad"
+msgstr "Charioteer"
 
 msgid "Chassis_GB134_Gryphon"
-msgstr "Gryphon"
+msgstr "FV4201/1B"
 
 msgid "Chassis_GB136_Churchill_BPXIV"
 msgstr "Churchill VII"
@@ -348,56 +348,54 @@ msgid "Chassis_GB137_Cromwell_Applique"
 msgstr "A27 Cromwell Applique"
 
 msgid "Chassis_GB139_FV226_Contradictious"
-msgstr "FV226 Contradictious"
+msgstr "FV226"
 
 msgid "Chassis_GB13_FV215b"
 msgstr "FV215"
 
 msgid "Chassis_GB140_FV224_Chopper"
-msgstr "FV224 Chopper"
+msgstr "FV224"
 
 msgid "Chassis_GB140_FV224_Chopper_2"
-msgstr "FV224 Chopper Mk. II"
+msgstr "FV224 Mk. II"
 
 msgid "Chassis_GB141_GSOR_the_TANK"
 msgstr "GSOR the TANK"
 
 msgid "Chassis_GB142_FV230_Canopener"
-msgstr "FV230 Canopener"
+msgstr "FV230"
 
 msgid "Chassis_GB142_FV230_Canopener_CFE_G"
 msgstr "Twin Guardians"
 
 msgid "Chassis_GB143_FV229_Contender"
-msgstr "FV229 Contender"
+msgstr "FV229"
 
 msgid "Chassis_GB143_FV229_Contender_2"
-msgstr "FV229 Contender Mk. II"
+msgstr "FV229 Mk. II"
 
 msgid "Chassis_GB143_FV229_Contender_2_short"
 msgstr ""
-"FV229 Contender\n"
-"Mk. II"
+"FV229 Contender Mk. II"
 
 msgid "Chassis_GB145_Crusher_ASE_4"
-msgstr "Nergal"
+msgstr "Crusher"
 
 msgid "Chassis_GB146_Gabler_s_Destroyer"
 msgstr "Gabler’s Destroyer"
 
 msgid "Chassis_GB147_FV4025_Contriver"
-msgstr "FV4025 Contriver"
+msgstr "FV4025"
 
 msgid "Chassis_GB148_FV227_Conceiver"
-msgstr "FV227 Conceiver"
+msgstr "FV227"
 
 msgid "Chassis_GB148_FV227_Conceiver_2"
-msgstr "FV227 Conceiver Mk. II"
+msgstr "FV227 Mk. II"
 
 msgid "Chassis_GB148_FV227_Conceiver_2_short"
 msgstr ""
-"FV227 Conceiver\n"
-"Mk. II"
+"FV227 Mk. II"
 
 msgid "Chassis_GB149_Centurion_MkI_A"
 msgstr "Centurion St. Gloriana"
@@ -427,7 +425,7 @@ msgid "Chassis_GB157_FV214t"
 msgstr "FV214t"
 
 msgid "Chassis_GB158_Executor"
-msgstr "Executor"
+msgstr "Rookiat MTTD"
 
 msgid "Chassis_GB15_Stuart_I"
 msgstr "Stuart I"
@@ -1062,7 +1060,7 @@ msgid "GB109_GSOR_1008"
 msgstr "GSOR 1008"
 
 msgid "GB109_GSOR_1008_CFE_J"
-msgstr "Jade Coil"
+msgstr "GSOR 1008"
 
 msgid "GB109_GSOR_1008_CFE_J_descr"
 msgstr ""
@@ -1082,7 +1080,7 @@ msgstr ""
 "unleash its firepower from."
 
 msgid "GB109_GSOR_1008_CFE_J_short"
-msgstr "Jade Coil"
+msgstr "GSOR 1008"
 
 msgid "GB109_GSOR_1008_CFE_J_short_special"
 msgstr "With patient grace, the Wood Snake slithers unseen"
@@ -1638,7 +1636,7 @@ msgid "GB132_Taurus_CAT_short_special"
 msgstr "Autoloader, hydropneumatic suspension"
 
 msgid "GB133_Charioteer_MkVII"
-msgstr "Charioteer Nomad"
+msgstr "Charioteer"
 
 msgid "GB133_Charioteer_MkVII_descr"
 msgstr ""
@@ -1656,13 +1654,13 @@ msgstr ""
 "destroyer or break through enemy defenses together with allied medium tanks."
 
 msgid "GB133_Charioteer_MkVII_short"
-msgstr "Nomad"
+msgstr "Charioteer"
 
 msgid "GB133_Charioteer_MkVII_short_special"
 msgstr "Good gun with high penetration"
 
 msgid "GB134_Gryphon"
-msgstr "Gryphon"
+msgstr "FV4201/1B"
 
 msgid "GB134_Gryphon_descr"
 msgstr ""
@@ -1670,7 +1668,7 @@ msgstr ""
 "production of a similar-class vehicle outside of the U.K. Based on the "
 "chassis of the first prototype, a project was developed with the American "
 "turret of the promising Concept 1B tank. The vehicle was given the working "
-"name of Gryphon. Besides the turret, use of a range of other American "
+"name of FV4201/1B. Besides the turret, use of a range of other American "
 "components was planned. The internal equipment was meant to remain British. "
 "Initially, the design included the possibility of mounting either a British "
 "or an American gun, depending on the country where production was supposed "
@@ -1678,14 +1676,14 @@ msgstr ""
 
 msgid "GB134_Gryphon_long_special"
 msgstr ""
-"The Gryphon is a Tier X British heavy tank with a reverse autoreloader "
+"The FV4201/1B is a Tier X British heavy tank with a reverse autoreloader "
 "holding two shells. This system ensures an extra shell is almost always "
 "ready, allowing an additional shot at the start of fights. The tank has good "
 "mobility, a very strong turret, and excellent gun depression but mediocre "
 "hull armor."
 
 msgid "GB134_Gryphon_short"
-msgstr "Gryphon"
+msgstr "FV4201/1B"
 
 msgid "GB134_Gryphon_short_special"
 msgstr "Reverse autoreloader, reliable turret armor"
@@ -1754,7 +1752,7 @@ msgid "GB137_Cromwell_Applique_short_special"
 msgstr "Good armor and mobility, high rate of fire"
 
 msgid "GB139_FV226_Contradictious"
-msgstr "FV226 Contradictious"
+msgstr "FV226"
 
 msgid "GB139_FV226_Contradictious_descr"
 msgstr ""
@@ -1802,7 +1800,7 @@ msgid "GB13_FV215b_short_special"
 msgstr "An effective gun and a high number of hit points"
 
 msgid "GB140_FV224_Chopper"
-msgstr "FV224 Chopper"
+msgstr "FV224"
 
 msgid "GB140_FV224_Chopper_descr"
 msgstr ""
@@ -1815,7 +1813,7 @@ msgstr ""
 "protection, the project was terminated."
 
 msgid "GB140_FV224_Chopper_short"
-msgstr "Chopper"
+msgstr "FV224"
 
 msgid "GB141_GSOR_the_TANK"
 msgstr "GSOR the TANK"
@@ -1842,7 +1840,7 @@ msgid "GB141_GSOR_the_TANK_short_special"
 msgstr "High penetration power, HESH shells"
 
 msgid "GB142_FV230_Canopener"
-msgstr "FV230 Canopener"
+msgstr "FV230"
 
 msgid "GB142_FV230_Canopener_CFE_G"
 msgstr "Twin Guardians"
@@ -1887,10 +1885,10 @@ msgstr ""
 "prototype was built."
 
 msgid "GB142_FV230_Canopener_short"
-msgstr "Canopener"
+msgstr "FV230"
 
 msgid "GB143_FV229_Contender"
-msgstr "FV229 Contender"
+msgstr "FV229"
 
 msgid "GB143_FV229_Contender_descr"
 msgstr ""
@@ -1904,10 +1902,10 @@ msgstr ""
 "naval artillery supporting the landing. The project remained in blueprints."
 
 msgid "GB143_FV229_Contender_short"
-msgstr "Contender"
+msgstr "FV229"
 
 msgid "GB145_Crusher_ASE_4"
-msgstr "Nergal"
+msgstr "Crusher"
 
 msgid "GB145_Crusher_ASE_4_descr"
 msgstr ""
@@ -1936,7 +1934,7 @@ msgstr ""
 "makes it a force to be reckoned with."
 
 msgid "GB145_Crusher_ASE_4_short"
-msgstr "Nergal"
+msgstr "Crusher"
 
 msgid "GB145_Crusher_ASE_4_short_special"
 msgstr "Quick-firing gun, heavy armor"
@@ -1972,7 +1970,7 @@ msgid "GB146_Gabler_s_Destroyer_short_special"
 msgstr "Magazine loading system, excellent mobility"
 
 msgid "GB147_FV4025_Contriver"
-msgstr "FV4025 Contriver"
+msgstr "FV4025"
 
 msgid "GB147_FV4025_Contriver_descr"
 msgstr ""
@@ -1990,7 +1988,7 @@ msgstr ""
 
 msgid "GB147_FV4025_Contriver_long_special"
 msgstr ""
-"The FV4025 Contriver is a well-balanced heavy tank with no clear weaknesses, "
+"The FV4025 is a well-balanced heavy tank with no clear weaknesses, "
 "capable of holding its own in any battlefield situation—from positional "
 "firefights alongside other heavies to holding the defensive line against "
 "advancing enemy forces. Its dual gun system adds another level of "
@@ -1998,24 +1996,24 @@ msgstr ""
 "situation demands."
 
 msgid "GB147_FV4025_Contriver_short"
-msgstr "Contriver"
+msgstr "FV4025"
 
 msgid "GB148_FV227_Conceiver"
-msgstr "FV227 Conceiver"
+msgstr "FV227"
 
 msgid "GB148_FV227_Conceiver_descr"
 msgstr ""
-"A project for the FV227 Conceiver tank, which developed a concept for "
+"A project for the FV227 tank, which developed a concept for "
 "assault tanks that emphasized counteracting enemy vehicles rather than "
 "fortifications. The vehicle's primary purpose was reinforcement of the "
 "versatile Centurion tanks in battle. It was planned to equip the FV227 "
-"Conceiver with two identical high-caliber guns. The guns could be fired "
+"with two identical high-caliber guns. The guns could be fired "
 "alternately or in salvo. Virtually all developed countries in the world were "
 "attempting to develop a tank with a double-barreled gun system, but not one "
 "of these projects entered production."
 
 msgid "GB148_FV227_Conceiver_short"
-msgstr "Conceiver"
+msgstr "FV227"
 
 msgid "GB149_Centurion_MkI_A"
 msgstr "Centurion St. Gloriana"
@@ -2214,7 +2212,7 @@ msgid "GB157_FV214t_short_special"
 msgstr "Excellent handling, reliable frontal turret armor"
 
 msgid "GB158_Executor"
-msgstr "Executor"
+msgstr "Rooikat MTTD"
 
 msgid "GB158_Executor_descr"
 msgstr ""
@@ -2232,7 +2230,7 @@ msgstr ""
 "adversary."
 
 msgid "GB158_Executor_short"
-msgstr "Executor"
+msgstr "Rooikat MTTD"
 
 msgid "GB15_Stuart_I"
 msgstr "Stuart I-IV"
@@ -4137,7 +4135,7 @@ msgid "Turret_1_GB109_GSOR_1008"
 msgstr "GSOR1008 Mk.1"
 
 msgid "Turret_1_GB109_GSOR_1008_CFE_J"
-msgstr "Jade Coil"
+msgstr "GSOR 1008"
 
 msgid "Turret_1_GB10_Black_Prince"
 msgstr "Black Prince"
@@ -4209,46 +4207,46 @@ msgid "Turret_1_GB132_Taurus_CAT"
 msgstr "Taurus CAT"
 
 msgid "Turret_1_GB133_Charioteer_MkVII"
-msgstr "Charioteer Nomad"
+msgstr "Charioteer"
 
 msgid "Turret_1_GB134_Gryphon"
-msgstr "Gryphon"
+msgstr "FV4201/1B"
 
 msgid "Turret_1_GB137_Cromwell_Applique"
 msgstr "A27M Cromwell Applique"
 
 msgid "Turret_1_GB139_FV226_Contradictious"
-msgstr "FV226 Contradictious"
+msgstr "FV226"
 
 msgid "Turret_1_GB13_FV215b"
 msgstr "FV215"
 
 msgid "Turret_1_GB140_FV224_Chopper"
-msgstr "FV224 Chopper"
+msgstr "FV224"
 
 msgid "Turret_1_GB141_GSOR_the_TANK"
 msgstr "GSOR the TANK"
 
 msgid "Turret_1_GB142_FV230_Canopener"
-msgstr "FV230 Canopener"
+msgstr "FV230"
 
 msgid "Turret_1_GB142_FV230_Canopener_CFE_G"
 msgstr "Twin Guardians"
 
 msgid "Turret_1_GB143_FV229_Contender"
-msgstr "FV229 Contender"
+msgstr "FV229"
 
 msgid "Turret_1_GB145_Crusher_ASE_4"
-msgstr "Nergal"
+msgstr "Crusher"
 
 msgid "Turret_1_GB146_Gabler_s_Destroyer"
 msgstr "Gabler’s Destroyer"
 
 msgid "Turret_1_GB147_FV4025_Contriver"
-msgstr "FV4025 Contriver"
+msgstr "FV4025"
 
 msgid "Turret_1_GB148_FV227_Conceiver"
-msgstr "FV227 Conceiver"
+msgstr "FV227"
 
 msgid "Turret_1_GB149_Centurion_MkI_A"
 msgstr "Centurion St. Gloriana"
@@ -4275,7 +4273,7 @@ msgid "Turret_1_GB157_FV214t"
 msgstr "FV214t"
 
 msgid "Turret_1_GB158_Executor"
-msgstr "Executor"
+msgstr "Rookiat MTTD"
 
 msgid "Turret_1_GB15_Stuart_I"
 msgstr "Stuart I"
@@ -4530,23 +4528,21 @@ msgid "Turret_2_GB136_Churchill_BPXIV"
 msgstr "Churchill VII"
 
 msgid "Turret_2_GB140_FV224_Chopper"
-msgstr "FV224 Chopper Mk. II"
+msgstr "FV224 Mk. II"
 
 msgid "Turret_2_GB143_FV229_Contender"
-msgstr "FV229 Contender Mk. II"
+msgstr "FV229 Mk. II"
 
 msgid "Turret_2_GB143_FV229_Contender_short"
 msgstr ""
-"FV229 Contender\n"
-"Mk. II"
+"FV229 Mk. II"
 
 msgid "Turret_2_GB148_FV227_Conceiver"
-msgstr "FV227 Conceiver Mk. II"
+msgstr "FV227 Mk. II"
 
 msgid "Turret_2_GB148_FV227_Conceiver_short"
 msgstr ""
-"FV227 Conceiver\n"
-"Mk. II"
+"FV227 Mk. II"
 
 msgid "Turret_2_GB14_M2"
 msgstr "M2A4"
