@@ -78,3 +78,20 @@ Below is complete list of all renamed vehicles categorized by tier and nation.
 | **X** | Phönix | WT auf E 100 |
 | **XI** | Hirschkäfer | KanJPz Leopard |
 | **XI** | Borkenkäfer | LKpz 105 |
+
+### Italy
+
+| Tier | Original | Changed |
+| :---: | :---: | :---: |
+| **VIII** | Mars | Progetto 46 |
+| **VIII** | Bisonte C45 | Progetto 71 |
+| **VIII** | Stone Sentinel | Progetto 71 |
+| **VIII** | Vipera | SMV CC-64 |
+| **IX** | Predatore | Progetto 57 |
+| **IX** | Felice | Prototipo 6/2 |
+| **IX** | Toro | Progetto 57p |
+| **IX** | Serpente | Progetto 66d |
+| **X** | Minotauro | CC-3 | 
+| **X** | Rinoceronte | Progetto 60/70 |
+| **X** | Coccodrillo | Progetto 61/65 |
+| **X** | Lion | Leone |
