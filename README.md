@@ -95,3 +95,16 @@ Below is complete list of all renamed vehicles categorized by tier and nation.
 | **X** | Rinoceronte | Progetto 60/70 |
 | **X** | Coccodrillo | Progetto 61/65 |
 | **X** | Lion | Leone |
+
+### Japan
+
+| Tier | Original | Changed |
+| :---: | :---: | :---: |
+| **VIII** | Stitch | Chi-Se |
+| **VIII** | Type 57 | SHA |
+| **VIII** | Type 63 | SHB |
+| **IX** | Kame | Chi-Ru |
+| **IX** | Saryuda | Ka-Nu |
+| **IX** | Type 68 | SHC-1 |
+| **X** | Ashigaru | SCV-1 |
+| **X** | Type 71 | SHC-2 |
