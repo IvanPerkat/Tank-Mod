@@ -13,7 +13,7 @@ Below is complete list of all renamed vehicles categorized by tier and nation.
 | **VIII** | Alpine Tiger | WZ-111 |
 | **IX** | Dragon's Soul | DZT-159 |
 | **IX** | Yong Bing | BZ-63-II |
-| **X** | Monkey King | 113 |
+| **X** | Monkey King | 121B |
 
 ### Czechoslovakia
 
