@@ -133,3 +133,15 @@ Below is complete list of all renamed vehicles categorized by tier and nation.
 | :---: | :---: | :---: |
 | **VIII** | Stridsyxa | Strv pr. 54 |
 | **VIII** | P:Victoria | Strv 81 |
+
+### U.S.A.
+
+| Tier | Original | Changed |
+| :---: | :---: | :---: |
+| **VIII** | Alembic | ASTRON Rex |
+| **VIII** | Iron Arnie | M47 Patton Imp. |
+| **IX** | Rambo | M103M | 
+| **IX** | Peacekeeper | M-VI-Y (120) |
+| **X** | Stinger | T57 Heavy |
+| **XI** | Gorilla | XM110 |
+| **XI** | Hacker | XM69 |
