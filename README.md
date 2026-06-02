@@ -126,3 +126,10 @@ Below is complete list of all renamed vehicles categorized by tier and nation.
 | **X** | Hurricane | CS-63 |
 | **X** | Bzyg | Wz. 64GC |
 | **XI** | Szakal | CS-67 |
+
+### Sweden 
+
+| Tier | Original | Changed |
+| :---: | :---: | :---: |
+| **VIII** | Stridsyxa | Strv pr. 54 |
+| **VIII** | P:Victoria | Strv 81 |
