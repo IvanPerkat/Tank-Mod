@@ -89,7 +89,7 @@ msgid "Chassis_Pl15_60TP_Lewandowskiego"
 msgstr "60TP Lewandowskiego"
 
 msgid "Chassis_Pl15_60TP_Lewandowskiego_CFE_A"
-msgstr "Ashbringer"
+msgstr "60TP"
 
 msgid "Chassis_Pl16_T34_85_Rudy"
 msgstr "T-34-85-60"
@@ -122,7 +122,7 @@ msgid "Chassis_Pl21_CS_63_7x7"
 msgstr "CS-63"
 
 msgid "Chassis_Pl21_CS_63_OSP3"
-msgstr "Hurricane"
+msgstr "CS-63"
 
 msgid "Chassis_Pl22_CS_59"
 msgstr "CS-59 I"
@@ -143,52 +143,52 @@ msgid "Chassis_Pl25_CS_52_C"
 msgstr "CS-53 II"
 
 msgid "Chassis_Pl26_Czolg_P_Wz_46"
-msgstr "CC-46 Pancernik"
+msgstr "Czołg P wz. 46"
 
 msgid "Chassis_Pl27_SDP_Wz_66T"
-msgstr "SDP 66 Grom"
+msgstr "SDP wz. 66T"
 
 msgid "Chassis_Pl28_SDP_Wz_60"
-msgstr "SDP 60 Gonkiewicza"
+msgstr "SDP wz. 60"
 
 msgid "Chassis_Pl28_SDP_Wz_60_2"
-msgstr "SDP 60 Gonkiewicza-Wzmocnione"
+msgstr "SDP wz. 60 Wzmocnione"
 
 msgid "Chassis_Pl29_NC_Wz_70T"
-msgstr "NC 70 Błyskawica"
+msgstr "NC wz. 70T"
 
 msgid "Chassis_Pl30_SDP_Wz58T"
-msgstr "SDP 58 Kilana"
+msgstr "SDP wz. 58T"
 
 msgid "Chassis_Pl30_SDP_Wz58T_2"
-msgstr "SDP 58 Kilana-Wzmocnione"
+msgstr "SDP wz. 58T Wzmocnione"
 
 msgid "Chassis_Pl31_SDP_Wz_57D"
-msgstr "SDP 57 Gowika"
+msgstr "SDP wz. 57D"
 
 msgid "Chassis_Pl31_SDP_Wz_57D_2"
-msgstr "SDP 57 Gowika-Wzmocnione"
+msgstr "SDP wz. 57D Wzmocnione"
 
 msgid "Chassis_Pl32_SDP_Wz_44"
-msgstr "SDP 44 Burza"
+msgstr "SDP wz. 44"
 
 msgid "Chassis_Pl32_SDP_Wz_44_2"
-msgstr "SDP 44 Burza-Wzmocnione"
+msgstr "SDP wz. 44 Wzmocnione"
 
 msgid "Chassis_Pl33_SDP_Wz_40"
-msgstr "SDP 40 Zadymka"
+msgstr "SDP wz. 40"
 
 msgid "Chassis_Pl33_SDP_Wz_40_2"
-msgstr "SDP 40 Zadymka-Wzmocnione"
+msgstr "SDP wz. 40 Wzmocnione"
 
 msgid "Chassis_Pl34_Cs53_56_Woitek"
 msgstr "CS-53/56"
 
 msgid "Chassis_Pl36_Wz_64GC_Bzyg"
-msgstr "Wz. 64GC Bzyg"
+msgstr "Wz. 64GC"
 
 msgid "Chassis_Pl37_CS_67_Szakal"
-msgstr "CS-67 Szakal"
+msgstr "CS-67"
 
 msgid "Chassis_Pl40_Krazownik"
 msgstr "Krazownik"
@@ -628,7 +628,7 @@ msgid "Pl15_60TP_Lewandowskiego"
 msgstr "60TP Lewandowskiego"
 
 msgid "Pl15_60TP_Lewandowskiego_CFE_A"
-msgstr "Ashbringer"
+msgstr "60TP"
 
 msgid "Pl15_60TP_Lewandowskiego_CFE_A_descr"
 msgstr ""
@@ -639,14 +639,14 @@ msgstr ""
 
 msgid "Pl15_60TP_Lewandowskiego_CFE_A_long_special"
 msgstr ""
-"The combination of firepower and armor of the Ashbringer is reminiscent of a "
+"The combination of firepower and armor of the 60TP is reminiscent of a "
 "dragon’s flames and scales. Its gun deals massive damage, while its armor "
 "allows for aggressive play. This beast is always eager to charge into the "
 "frontlines, where it truly belongs. No enemy will feel safe as long as you "
 "hold the flank. Burn 'em like a dragon!"
 
 msgid "Pl15_60TP_Lewandowskiego_CFE_A_short"
-msgstr "Ashbringer"
+msgstr "60TP"
 
 msgid "Pl15_60TP_Lewandowskiego_CFE_A_short_special"
 msgstr "Huge alpha damage, reliable armor"
@@ -785,7 +785,7 @@ msgid "Pl21_CS_63_7x7_short"
 msgstr "CS-63 7x7"
 
 msgid "Pl21_CS_63_OSP3"
-msgstr "Hurricane"
+msgstr "CS-63"
 
 msgid "Pl21_CS_63_OSP3_descr"
 msgstr ""
@@ -798,13 +798,13 @@ msgstr ""
 msgid "Pl21_CS_63_OSP3_long_special"
 msgstr ""
 "A combination of effort, desire, and skill gives the spirit of conquest its "
-"physical form — the Hurricane. This vehicle possesses a gas-turbine engine "
+"physical form — the CS-63. This vehicle possesses a gas-turbine engine "
 "that makes it as swift as a well-calculated strike, and a reliable 105 mm "
 "gun with an excellent combination of handling and damage per minute. Rock "
-"'em like a Hurricane!"
+"'em like a CS-63!"
 
 msgid "Pl21_CS_63_OSP3_short"
-msgstr "Hurricane"
+msgstr "CS-63"
 
 msgid "Pl21_CS_63_OSP3_short_special"
 msgstr "Good damage per minute, excellent speed"
@@ -896,11 +896,11 @@ msgid "Pl25_CS_52_C_short_special"
 msgstr "A versatile vehicle with a gas-turbine engine"
 
 msgid "Pl26_Czolg_P_Wz_46"
-msgstr "CC-46 Pancernik"
+msgstr "Czołg P wz. 46"
 
 msgid "Pl26_Czolg_P_Wz_46_descr"
 msgstr ""
-"In the CC-46 Pancernik project, instead of a classic single-loop chassis, "
+"In the Czołg P wz. 46 project, instead of a classic single-loop chassis, "
 "the designers opted for a dual-loop one with power supply to the whole track "
 "loop. This layout had a lot of advantages but was harder to implement. The "
 "loops could operate in different modes: separately in traction or free mode, "
@@ -909,24 +909,24 @@ msgstr ""
 
 msgid "Pl26_Czolg_P_Wz_46_long_special"
 msgstr ""
-"The CC-46 Pancernik is a Tier IX Polish heavy tank. A classic assault heavy, "
+"The Czołg P wz. 46 is a Tier IX Polish heavy tank. A classic assault heavy, "
 "it has decent mobility balanced by good survivability with strong frontal "
 "and side armor. The tank is equipped with a 155 mm gun that causes huge "
 "damage per shot. Considering its high alpha, other stats like aiming and "
 "reload time are quite comfortable."
 
 msgid "Pl26_Czolg_P_Wz_46_short"
-msgstr "Pancernik"
+msgstr "Czołg P wz. 46"
 
 msgid "Pl26_Czolg_P_Wz_46_short_special"
 msgstr "Massive alpha damage, strong frontal and side armor"
 
 msgid "Pl27_SDP_Wz_66T"
-msgstr "SDP wz 66 Grom"
+msgstr "SDP wz. 66T"
 
 msgid "Pl27_SDP_Wz_66T_descr"
 msgstr ""
-"The SDP wz 66 Grom, a tank destroyer from the late 1950s to early 1960s, was "
+"The SDP wz. 66T, a tank destroyer from the late 1950s to early 1960s, was "
 "designed taking into account Soviet experience of developing similar "
 "vehicles. The armor was meant to withstand attacks from existing and "
 "potential NATO tanks, and a gas-turbine engine was planned to increase "
@@ -937,24 +937,24 @@ msgstr ""
 
 msgid "Pl27_SDP_Wz_66T_long_special"
 msgstr ""
-"The Grom is an exemplary Polish tank destroyer. It possesses some thick "
+"The SDP wz. 66T is an exemplary Polish tank destroyer. It possesses some thick "
 "armor located at rational inclination angles, as well as a powerful 100/162 "
 "mm deep-rifled gun that can be extremely devastating when used correctly. "
 "Combining these strengths and appropriate tactics will easily overthrow most "
 "enemies in a close-combat brawl."
 
 msgid "Pl27_SDP_Wz_66T_short"
-msgstr "Grom"
+msgstr "SDP wz. 66T"
 
 msgid "Pl27_SDP_Wz_66T_short_special"
 msgstr "Sturdy armor, deep-rifled gun"
 
 msgid "Pl28_SDP_Wz_60"
-msgstr "SDP 60 Gonkiewicza"
+msgstr "SDP wz. 60"
 
 msgid "Pl28_SDP_Wz_60_descr"
 msgstr ""
-"In 1960, a project for the SDP 60 Gonkiewicza heavy tank destroyer appeared "
+"In 1960, a project for the SDP wz. 60 heavy tank destroyer appeared "
 "in Poland. The well-armored vehicle was supposed to have good mobility. To "
 "achieve this, it was to be equipped with a small but powerful engine based "
 "on one of the early variants of the GTD-1 gas-turbine engine with a "
@@ -965,10 +965,10 @@ msgstr ""
 "high costs."
 
 msgid "Pl28_SDP_Wz_60_short"
-msgstr "Gonkiewicza"
+msgstr "SDP wz. 60"
 
 msgid "Pl29_NC_Wz_70T"
-msgstr "NC 70 Błyskawica"
+msgstr "NC wz. 70T"
 
 msgid "Pl29_NC_Wz_70T_7x7"
 msgstr "NC 70 Błyskawica 7x7"
@@ -978,7 +978,7 @@ msgstr "Błyskawica 7x7"
 
 msgid "Pl29_NC_Wz_70T_descr"
 msgstr ""
-"The NC 70 Błyskawica tank destroyer was developed as an anti-armor vehicle "
+"The NC wz. 70T tank destroyer was developed as an anti-armor vehicle "
 "and a means to destroy fortifications, as well as to suppress and destroy "
 "enemy artillery and infantry. The project was to use a new artillery system "
 "that ensured high initial shell velocity. The gun was to be hard-mounted in "
@@ -987,15 +987,15 @@ msgstr ""
 "only in blueprints."
 
 msgid "Pl29_NC_Wz_70T_short"
-msgstr "Błyskawica"
+msgstr "NC wz. 70T"
 
 msgid "Pl30_SDP_Wz58T"
-msgstr "SDP 58 Kilana"
+msgstr "SDP wz. 58T"
 
 msgid "Pl30_SDP_Wz58T_descr"
 msgstr ""
 "In 1957, Poland started designing advanced tanks and anti-tank SPGs. One "
-"such project was the SDP 58 Kilana with its gas-turbine engine. The armament "
+"such project was the SDP wz. 58T with its gas-turbine engine. The armament "
 "and the power unit were designed using cutting-edge technologies provided by "
 "the U.S.S.R. To increase firepower, engineers used deep-rifled guns that "
 "were developed in the Soviet Union and given to Poland for testing. The "
@@ -1003,25 +1003,25 @@ msgstr ""
 "Polish tank destroyers."
 
 msgid "Pl30_SDP_Wz58T_short"
-msgstr "Kilana"
+msgstr "SDP wz. 58T"
 
 msgid "Pl31_SDP_Wz_57D"
-msgstr "SDP 57 Gowika"
+msgstr "SDP wz. 57D"
 
 msgid "Pl31_SDP_Wz_57D_descr"
 msgstr ""
 "After the end of World War II, the Polish Army operated Soviet self-"
 "propelled guns. Licensed production of T-34 and T-54 started in the 1950s "
 "and a production base for independent production of armored vehicles was "
-"established. The anti-tank SPG named SDP 57 Gowika was designed to replace "
+"established. The anti-tank SPG named SDP wz. 57D was designed to replace "
 "the obsolete Soviet SU-100 and ISU-122. The project was deemed a success, "
 "but the prototype was abandoned in favor of a more promising design."
 
 msgid "Pl31_SDP_Wz_57D_short"
-msgstr "Gowika"
+msgstr "SDP wz. 57D"
 
 msgid "Pl32_SDP_Wz_44"
-msgstr "SDP 44 Burza"
+msgstr "SDP wz. 44"
 
 msgid "Pl32_SDP_Wz_44_descr"
 msgstr ""
@@ -1030,21 +1030,21 @@ msgstr ""
 "original technical solutions. The second was premised on French ideas—"
 "unsurprisingly, since the country was buying French tanks at the time.\n"
 "After the outbreak of World War II, some Polish designers left for Britain "
-"where they continued their work. One of their projects was the SDP 44 Burza "
+"where they continued their work. One of their projects was the SDP wz. 44 "
 "tank destroyer, which had features typical of British assault tanks and "
 "proposals for the introduction of advanced technical solutions. However, "
 "after a while, the project was closed in favor of the A39 (Tortoise) assault "
 "tank."
 
 msgid "Pl32_SDP_Wz_44_short"
-msgstr "Burza"
+msgstr "SDP wz. 44"
 
 msgid "Pl33_SDP_Wz_40"
-msgstr "SDP 40 Zadymka"
+msgstr "SDP wz. 40"
 
 msgid "Pl33_SDP_Wz_40_descr"
 msgstr ""
-"The tank destroyer code-named SDP 40 Zadymka was designed with the goal of "
+"The tank destroyer code-named SDP wz. 40 was designed with the goal of "
 "destroying heavily armored combat vehicles and reinforcing prospective "
 "medium tanks. The gun caliber was large enough for the vehicle to be used as "
 "an assault SPG. Its engineers drew on British experience in manufacturing "
@@ -1053,10 +1053,10 @@ msgstr ""
 "compartment. The work did not progress beyond schematic blueprints."
 
 msgid "Pl33_SDP_Wz_40_short"
-msgstr "Zadymka"
+msgstr "SDP wz. 40"
 
 msgid "Pl34_Cs53_56_Woitek"
-msgstr "CS-53/56 Wojtek"
+msgstr "CS-53/56"
 
 msgid "Pl34_Cs53_56_Woitek_descr"
 msgstr ""
@@ -1068,19 +1068,19 @@ msgstr ""
 
 msgid "Pl34_Cs53_56_Woitek_long_special"
 msgstr ""
-"The CS-53/56 Wojtek has weak hull armor but reliable turret armor. At the "
+"The CS-53/56 has weak hull armor but reliable turret armor. At the "
 "same time, the heavy turret is equipped with a 122 mm gun featuring high "
 "damage per shot. Also, despite weighing around 52 tons, this medium tank has "
 "good forward speed and a good power-to-weight ratio."
 
 msgid "Pl34_Cs53_56_Woitek_short"
-msgstr "Wojtek"
+msgstr "CS-53/56"
 
 msgid "Pl34_Cs53_56_Woitek_short_special"
 msgstr "High alpha damage, reliable turret armor"
 
 msgid "Pl36_Wz_64GC_Bzyg"
-msgstr "Wz. 64GC Bzyg"
+msgstr "Wz. 64GC"
 
 msgid "Pl36_Wz_64GC_Bzyg_descr"
 msgstr ""
@@ -1095,19 +1095,19 @@ msgstr ""
 
 msgid "Pl36_Wz_64GC_Bzyg_long_special"
 msgstr ""
-"The Wz. 64GC Bzyg is a Tier X Polish heavy tank distinguished by its deep-"
+"The Wz. 64GC is a Tier X Polish heavy tank distinguished by its deep-"
 "rifled gun, which delivers both high damage per shot and impressive DPM in "
 "close combat. The vehicle's strongest protection lies in the frontal armor "
 "of its hull and turret."
 
 msgid "Pl36_Wz_64GC_Bzyg_short"
-msgstr "Bzyg"
+msgstr "Wz. 64GC"
 
 msgid "Pl36_Wz_64GC_Bzyg_short_special"
 msgstr "Deep-rifled gun, good frontal armor"
 
 msgid "Pl37_CS_67_Szakal"
-msgstr "CS-67 Szakal"
+msgstr "CS-67"
 
 msgid "Pl37_CS_67_Szakal_descr"
 msgstr ""
@@ -1122,15 +1122,15 @@ msgstr ""
 
 msgid "Pl37_CS_67_Szakal_long_special"
 msgstr ""
-"While the CS-67 Szakal thrives in flanking maneuvers and high-adrenaline "
+"While the CS-67 thrives in flanking maneuvers and high-adrenaline "
 "engagements, this medium tank can handle anything asked of it—with balanced "
 "characteristics that make it an asset to any team. Adding to its versatility "
 "is a powerful gas turbine engine, granting exceptional mobility that allows "
-"the Szakal to rival light tanks and quickly relocate to where it's needed "
+"the CS-67 to rival light tanks and quickly relocate to where it's needed "
 "most."
 
 msgid "Pl37_CS_67_Szakal_short"
-msgstr "Szakal"
+msgstr "CS-67"
 
 msgid "Pl40_Krazownik"
 msgstr "Krazownik"
@@ -1307,7 +1307,7 @@ msgid "Turret_1_Pl15_60TP_Lewandowskiego"
 msgstr "60TP Lewandowskiego"
 
 msgid "Turret_1_Pl15_60TP_Lewandowskiego_CFE_A"
-msgstr "Ashbringer"
+msgstr "60TP"
 
 msgid "Turret_1_Pl16_T34_85_Rudy"
 msgstr "T-34-85"
@@ -1334,7 +1334,7 @@ msgid "Turret_1_Pl21_CS_63_7x7"
 msgstr "CS-63"
 
 msgid "Turret_1_Pl21_CS_63_OSP3"
-msgstr "Hurricane"
+msgstr "CS-63"
 
 msgid "Turret_1_Pl22_CS_59"
 msgstr "CS-59"
@@ -1349,37 +1349,37 @@ msgid "Turret_1_Pl25_CS_52_C"
 msgstr "CS 63 P"
 
 msgid "Turret_1_Pl26_Czolg_P_Wz_46"
-msgstr "CC-46 Pancernik"
+msgstr "Czołg P wz. 46"
 
 msgid "Turret_1_Pl27_SDP_Wz_66T"
-msgstr "SDP 66 Grom"
+msgstr "SDP wz. 66T"
 
 msgid "Turret_1_Pl28_SDP_Wz_60"
-msgstr "SDP 60 Gonkiewicza"
+msgstr "SDP wz. 60"
 
 msgid "Turret_1_Pl29_NC_Wz_70T"
-msgstr "NC 70 Błyskawica"
+msgstr "NC wz. 70T"
 
 msgid "Turret_1_Pl30_SDP_Wz58T"
-msgstr "SDP 58 Kilana"
+msgstr "SDP wz. 58T"
 
 msgid "Turret_1_Pl31_SDP_Wz_57D"
-msgstr "SDP 57 Gowika"
+msgstr "SDP wz. 57D"
 
 msgid "Turret_1_Pl32_SDP_Wz_44"
-msgstr "SDP 44 Burza"
+msgstr "SDP wz. 44"
 
 msgid "Turret_1_Pl33_SDP_Wz_40"
-msgstr "SDP 40 Zadymka"
+msgstr "SDP wz. 40"
 
 msgid "Turret_1_Pl34_Cs53_56_Woitek"
 msgstr "CS-53/56"
 
 msgid "Turret_1_Pl36_Wz_64GC_Bzyg"
-msgstr "Wz. 64GC Bzyg"
+msgstr "Wz. 64GC"
 
 msgid "Turret_1_Pl37_CS_67_Szakal"
-msgstr "CS-67 Szakal"
+msgstr "CS-67"
 
 msgid "Turret_1_Pl40_Krazownik"
 msgstr "Krazownik"
