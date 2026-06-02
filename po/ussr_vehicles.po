@@ -309,7 +309,7 @@ msgid "Chassis_R133_KV_122"
 msgstr "KV-122"
 
 msgid "Chassis_R134_Object_252K"
-msgstr "Object 252U Defender"
+msgstr "Object 252U"
 
 msgid "Chassis_R134_Object_252U"
 msgstr "Object 252U"
@@ -351,7 +351,7 @@ msgid "Chassis_R146_STG"
 msgstr "STG"
 
 msgid "Chassis_R146_STG_Tday"
-msgstr "STG Guard"
+msgstr "STG"
 
 msgid "Chassis_R147_Object_701"
 msgstr "Object 701"
@@ -399,7 +399,7 @@ msgid "Chassis_R159_SU_130PM"
 msgstr "SU-130PM"
 
 msgid "Chassis_R159_SU_130PM_DR"
-msgstr "Forest Spirit"
+msgstr "SU-130PM"
 
 msgid "Chassis_R15_S-51"
 msgstr "S-51"
@@ -465,7 +465,7 @@ msgid "Chassis_R17_SU-100_2"
 msgstr "SU-100-60"
 
 msgid "Chassis_R180_Object_274_A"
-msgstr "Object 274a"
+msgstr "Object 274"
 
 msgid "Chassis_R182_ST_66"
 msgstr "ST-66"
@@ -486,7 +486,7 @@ msgid "Chassis_R188_Object_259A"
 msgstr "Object 259A"
 
 msgid "Chassis_R188_Object_259A_CN"
-msgstr "Udarniy"
+msgstr "Obj. 259A"
 
 msgid "Chassis_R18_SU-152"
 msgstr "SU-152"
@@ -546,7 +546,7 @@ msgid "Chassis_R205_Tank_Rozanova"
 msgstr "TITT Rozanov"
 
 msgid "Chassis_R205_Tank_Rozanova_Obsidian"
-msgstr "Obsidian"
+msgstr "TITT Rozanov"
 
 msgid "Chassis_R20_T-44"
 msgstr "T-44"
@@ -573,7 +573,7 @@ msgid "Chassis_R230_Object_432U"
 msgstr "Object 432U"
 
 msgid "Chassis_R231_Buryan"
-msgstr "Buryan"
+msgstr "Pr. 1476"
 
 msgid "Chassis_R234_T_13"
 msgstr "T-13"
@@ -1724,7 +1724,7 @@ msgid "R115_IS-3_auto"
 msgstr "IS-3A"
 
 msgid "R115_IS-3_auto_S"
-msgstr "IS-3A Peregrine"
+msgstr "IS-3A"
 
 msgid "R115_IS-3_auto_S_descr"
 msgstr ""
@@ -1743,7 +1743,7 @@ msgstr ""
 "when reloading after each shell."
 
 msgid "R115_IS-3_auto_S_short"
-msgstr "Peregrine"
+msgstr "IS-3A"
 
 msgid "R115_IS-3_auto_S_short_special"
 msgstr "A multi-purpose tank with a unique gun"
@@ -2264,7 +2264,7 @@ msgid "R133_KV_122_short_special"
 msgstr "Great damage per shot and good dynamics"
 
 msgid "R134_Object_252K"
-msgstr "Object 252U Defender"
+msgstr "Object 252U"
 
 msgid "R134_Object_252K_descr"
 msgstr ""
@@ -2281,7 +2281,7 @@ msgstr ""
 "accuracy make this vehicle better suited to close range encounters."
 
 msgid "R134_Object_252K_short"
-msgstr "Defender"
+msgstr "Obj. 252U"
 
 msgid "R134_Object_252K_short_special"
 msgstr "Reliable armor and a powerful gun"
@@ -2473,7 +2473,7 @@ msgid "R146_STG"
 msgstr "STG"
 
 msgid "R146_STG_Tday"
-msgstr "STG Guard"
+msgstr "STG"
 
 msgid "R146_STG_Tday_descr"
 msgstr ""
@@ -2492,7 +2492,7 @@ msgstr ""
 "penetration characteristics more than make up for it."
 
 msgid "R146_STG_Tday_short"
-msgstr "Guard"
+msgstr "STG"
 
 msgid "R146_STG_Tday_short_special"
 msgstr "A powerful gun with high penetration, and good concealment"
@@ -2761,7 +2761,7 @@ msgid "R159_SU_130PM"
 msgstr "SU-130PM"
 
 msgid "R159_SU_130PM_DR"
-msgstr "Forest Spirit"
+msgstr "SU-130PM"
 
 msgid "R159_SU_130PM_DR_descr"
 msgstr ""
@@ -2782,7 +2782,7 @@ msgstr ""
 "destroyer."
 
 msgid "R159_SU_130PM_DR_short"
-msgstr "Forest Spirit"
+msgstr "SU-130PM"
 
 msgid "R159_SU_130PM_DR_short_special"
 msgstr "A powerful gun, great concealment, and a unique exterior"
@@ -2918,7 +2918,7 @@ msgstr ""
 "some skill from players."
 
 msgid "R165_Object_703_II_short"
-msgstr "703 II (122)"
+msgstr "Obj. 703 II"
 
 msgid "R165_Object_703_II_short_special"
 msgstr "Two guns and reliable armor"
@@ -3141,7 +3141,7 @@ msgstr ""
 "vehicle."
 
 msgid "R180_Object_274_A"
-msgstr "Object 274a"
+msgstr "Object 274A"
 
 msgid "R180_Object_274_A_descr"
 msgstr ""
@@ -3158,7 +3158,7 @@ msgstr ""
 "or fight with heavy vehicles on the main battle line."
 
 msgid "R180_Object_274_A_short"
-msgstr "Obj. 274a"
+msgstr "Obj. 274A"
 
 msgid "R180_Object_274_A_short_special"
 msgstr "Reliable sloped armor and nice penetration"
@@ -3294,14 +3294,14 @@ msgid "R188_Object_259A"
 msgstr "Object 259A"
 
 msgid "R188_Object_259A_CN"
-msgstr "Udarniy"
+msgstr "Object 259A"
 
 msgid "R188_Object_259A_CN_descr"
 msgstr ""
 "In June 1945, the Design Bureau of Factory No. 100 started designing the "
 "second tank designated IS-7. Compared to the preliminary variant—the Object "
 "257—armoring and mobility requirements increased. In September 1945, four "
-"draft designs were developed for the tank. The Udarniy was a project with "
+"draft designs were developed for the tank. The Object 259A was a project with "
 "enhanced armor, the KCh-30 engine, and an electromechanical transmission."
 
 msgid "R188_Object_259A_CN_long_special"
@@ -3312,7 +3312,7 @@ msgstr ""
 "vehicle better suited to close-range encounters."
 
 msgid "R188_Object_259A_CN_short"
-msgstr "Udarniy"
+msgstr "Obj. 259A"
 
 msgid "R188_Object_259A_CN_short_special"
 msgstr "Decent damage per shot and reliable frontal armor"
@@ -3737,7 +3737,7 @@ msgid "R205_Tank_Rozanova"
 msgstr "TITT Rozanov"
 
 msgid "R205_Tank_Rozanova_Obsidian"
-msgstr "Obsidian"
+msgstr "TITT Rozanov"
 
 msgid "R205_Tank_Rozanova_Obsidian_descr"
 msgstr ""
@@ -3761,7 +3761,7 @@ msgstr ""
 "additional protection, allowing you to harness the vehicle's full potential."
 
 msgid "R205_Tank_Rozanova_Obsidian_short"
-msgstr "Obsidian"
+msgstr "TITT"
 
 msgid "R205_Tank_Rozanova_Obsidian_short_special"
 msgstr "High rate of fire and low profile"
@@ -3828,11 +3828,11 @@ msgstr ""
 "The Object Kust is a Tier VIII Soviet sniper TD with hydropneumatic "
 "suspension. It boasts a 130 mm gun with excellent armor penetration and high "
 "average damage per shot, and the thickness and angle of its frontal armor "
-"force enemies to aim for specific weak points—giving the Kust plenty of time "
+"force enemies to aim for specific weak points—giving the Object Kust plenty of time "
 "to take out foes."
 
 msgid "R217_Object_Kust_short"
-msgstr "Kust"
+msgstr "Obj. Kust"
 
 msgid "R217_Object_Kust_short_special"
 msgstr "Hydropneumatic suspension, powerful gun"
@@ -3971,12 +3971,12 @@ msgid "R230_Object_432U_short"
 msgstr "Obj. 432U"
 
 msgid "R231_Buryan"
-msgstr "Buryan"
+msgstr "Project 1476"
 
 msgid "R231_Buryan_descr"
 msgstr ""
 "One area of post-war research was studying crew ergonomics and the optimal "
-"crew size. The \"NIR 1476\" project (unofficially named \"Buryan\") was "
+"crew size. The \"NIR 1476\" project was "
 "developed based on the obtained data. It aimed to translate the results of "
 "the anthropometric research into tank design.\n"
 "With a conventional layout, a spacious turret, and two loaders, the vehicle "
@@ -3993,14 +3993,14 @@ msgstr ""
 
 msgid "R231_Buryan_long_special"
 msgstr ""
-"The Buryan is a Tier IX Soviet heavy tank that combines high damage per shot "
+"The Pr. 1476 is a Tier IX Soviet heavy tank that combines high damage per shot "
 "with high DPM, making it very effective in one-on-one fights; however, its "
 "gun handling is mediocre. Its mobility lets it move comfortably over short "
 "distances, but its low top speed limits flanking options. The sturdy turret "
 "often blocks incoming enemy hits."
 
 msgid "R231_Buryan_short"
-msgstr "Buryan"
+msgstr "Pr. 1476"
 
 msgid "R231_Buryan_short_special"
 msgstr "High single damage, high DPM"
@@ -5166,7 +5166,7 @@ msgid "Turret_1_R133_KV_122"
 msgstr "KV-122"
 
 msgid "Turret_1_R134_Object_252K"
-msgstr "Object 252U Defender"
+msgstr "Object 252U"
 
 msgid "Turret_1_R134_Object_252U"
 msgstr "Object 252U"
@@ -5202,7 +5202,7 @@ msgid "Turret_1_R146_STG"
 msgstr "STG"
 
 msgid "Turret_1_R146_STG_Tday"
-msgstr "STG Guard"
+msgstr "STG"
 
 msgid "Turret_1_R147_Object_701"
 msgstr "Object 701"
@@ -5244,7 +5244,7 @@ msgid "Turret_1_R159_SU_130PM"
 msgstr "SU-130PM"
 
 msgid "Turret_1_R159_SU_130PM_DR"
-msgstr "Forest Spirit"
+msgstr "SU-130PM"
 
 msgid "Turret_1_R15_S-51"
 msgstr "S-51"
@@ -5295,7 +5295,7 @@ msgid "Turret_1_R17_SU-100"
 msgstr "SU-100"
 
 msgid "Turret_1_R180_Object_274_A"
-msgstr "Object 274a"
+msgstr "Object 274A"
 
 msgid "Turret_1_R182_ST_66"
 msgstr "ST-66"
@@ -5316,7 +5316,7 @@ msgid "Turret_1_R188_Object_259A"
 msgstr "Object 259A"
 
 msgid "Turret_1_R188_Object_259A_CN"
-msgstr "Udarniy"
+msgstr "Object 259A"
 
 msgid "Turret_1_R18_SU-152"
 msgstr "SU-152"
@@ -5370,7 +5370,7 @@ msgid "Turret_1_R205_Tank_Rozanova"
 msgstr "TITT Rozanov"
 
 msgid "Turret_1_R205_Tank_Rozanova_Obsidian"
-msgstr "Obsidian"
+msgstr "TITT Rozanov"
 
 msgid "Turret_1_R20_T-44"
 msgstr "T-44"
@@ -5394,7 +5394,7 @@ msgid "Turret_1_R230_Object_432U"
 msgstr "Object 432U"
 
 msgid "Turret_1_R231_Buryan"
-msgstr "Buryan"
+msgstr "Pr. 1476"
 
 msgid "Turret_1_R234_T_13"
 msgstr "T-13"
