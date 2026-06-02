@@ -862,7 +862,7 @@ msgid "A140_ASTRON_REX_105mm"
 msgstr "ASTRON Rex 105 mm"
 
 msgid "A140_ASTRON_REX_105mm_SPD"
-msgstr "Alembic"
+msgstr "ASTRON Rex"
 
 msgid "A140_ASTRON_REX_105mm_SPD_descr"
 msgstr ""
@@ -882,7 +882,7 @@ msgstr ""
 "quickly retreat when it's time to reload."
 
 msgid "A140_ASTRON_REX_105mm_SPD_short"
-msgstr "Alembic"
+msgstr "ASTRON Rex"
 
 msgid "A140_ASTRON_REX_105mm_SPD_short_special"
 msgstr "Unique appearance, large magazine"
@@ -981,28 +981,28 @@ msgid "A144_M_VI_Y_CFE_R"
 msgstr "M-VI-Y (120)"
 
 msgid "A144_M_VI_Y_CFE_RC"
-msgstr "OCP Peacekeeper"
+msgstr "M-VI-Y (120)"
 
 msgid "A144_M_VI_Y_CFE_RC_desc"
 msgstr ""
 "Omni Consumer Products proudly presents the latest evolution in law "
-"enforcement technology: the OCP Peacekeeper. Building on the resounding "
-"success of our RoboCop unit, the Peacekeeper combines reinforced armor, "
+"enforcement technology: the M-VI-Y (120). Building on the resounding "
+"success of our RoboCop unit, the M-VI-Y (120) combines reinforced armor, "
 "advanced weapon systems, and cutting-edge operational efficiency in a single "
 "product. Engineered to deliver maximum performance without the limitations "
-"of biological components, the OCP Peacekeeper sets a new standard for "
+"of biological components, the M-VI-Y (120) sets a new standard for "
 "policing modern urban environments. Witness the future of public security—"
 "brought to you by OCP."
 
 msgid "A144_M_VI_Y_CFE_RC_long_special"
 msgstr ""
-"The OCP Peacekeeper is a Tier IX American heavy tank that excels at holding "
+"The M-VI-Y (120) is a Tier IX American heavy tank that excels at holding "
 "down key positions thanks to its impressive turret armor and exceptional gun "
 "depression angles. It is capable of causing significant single-shot damage, "
 "and also boasts the familiar reserve track mechanic."
 
 msgid "A144_M_VI_Y_CFE_RC_short"
-msgstr "Peacekeeper"
+msgstr "M-VI-Y (120)"
 
 msgid "A144_M_VI_Y_CFE_RC_short_special"
 msgstr "Impressive turret armor, exceptional gun depression angles"
@@ -1236,7 +1236,7 @@ msgid "A151_TS_60_short_special"
 msgstr "High DPM and good armor"
 
 msgid "A152_M_Project"
-msgstr "M47 Iron Arnie"
+msgstr "M47 Patton Improved"
 
 msgid "A152_M_Project_2"
 msgstr "M47 Patton Improved"
@@ -1281,7 +1281,7 @@ msgstr ""
 "encounters."
 
 msgid "A152_M_Project_short"
-msgstr "Iron Arnie"
+msgstr "M47 Patton Imp."
 
 msgid "A152_M_Project_short_special"
 msgstr "Reliable armor and a powerful gun"
@@ -1713,7 +1713,7 @@ msgid "A173_Sherman_Crab_short"
 msgstr "Sherman Crab"
 
 msgid "A174_T57_58_Rush_Ep1"
-msgstr "Stinger"
+msgstr "T57 Heavy"
 
 msgid "A174_T57_58_Rush_Ep1_descr"
 msgstr ""
@@ -1722,14 +1722,14 @@ msgstr ""
 
 msgid "A174_T57_58_Rush_Ep1_long_special"
 msgstr ""
-"The Stinger is the essence of strength, honesty, and fury. Its four-shell "
+"The T57 Heavy is the essence of strength, honesty, and fury. Its four-shell "
 "magazine with very quick clip and in-clip reload times allows you not just "
 "to destroy but to disintegrate enemy vehicles. Its armor, situational but "
 "reliable, can both seriously surprise and impress your enemies. Sting 'em "
 "like a bee!"
 
 msgid "A174_T57_58_Rush_Ep1_short"
-msgstr "Stinger"
+msgstr "T57 Heavy"
 
 msgid "A174_T57_58_Rush_Ep1_short_special"
 msgstr "Magazine loading system and a unique exterior"
@@ -1767,7 +1767,7 @@ msgid "A176_M103_110"
 msgstr "M103M"
 
 msgid "A176_M103_110_CFE_R"
-msgstr "Rambo"
+msgstr "M103M"
 
 msgid "A176_M103_110_CFE_R_descr"
 msgstr ""
@@ -1788,7 +1788,7 @@ msgstr ""
 "predecessor, with good mobility and decent survivability."
 
 msgid "A176_M103_110_CFE_R_short"
-msgstr "Rambo"
+msgstr "M103M"
 
 msgid "A176_M103_110_CFE_R_short_special"
 msgstr "High rate of fire, good frontal armor"
@@ -1844,7 +1844,7 @@ msgid "A178_SPHT_short_special"
 msgstr "Good mobility, versatile gun"
 
 msgid "A179_Black_Rock"
-msgstr "Black Rock"
+msgstr "Concept 2B"
 
 msgid "A179_Black_Rock_descr"
 msgstr ""
@@ -1860,14 +1860,14 @@ msgstr ""
 
 msgid "A179_Black_Rock_long_special"
 msgstr ""
-"The Black Rock is a classic, versatile heavy tank with no major weaknesses. "
+"The Concept 2B is a classic, versatile heavy tank with no major weaknesses. "
 "It performs effectively in most battlefield scenarios. Its accurate and "
 "comfortable gun delivers damage from any range. High mobility lets it keep "
 "up with the pace of battle, while strong turret armor supports aggressive "
 "gameplay."
 
 msgid "A179_Black_Rock_short"
-msgstr "Black Rock"
+msgstr "Concept 2B"
 
 msgid "A179_Black_Rock_short_special"
 msgstr "Comfortable gun, strong turret armor, good mobility"
@@ -1899,7 +1899,7 @@ msgid "A182_T803_short"
 msgstr "T803"
 
 msgid "A183_XM69_Hacker"
-msgstr "XM69 Hacker"
+msgstr "XM69"
 
 msgid "A183_XM69_Hacker_descr"
 msgstr ""
@@ -1916,14 +1916,14 @@ msgstr ""
 
 msgid "A183_XM69_Hacker_long_special"
 msgstr ""
-"The logical continuation of the M48 Patton concept, the XM69 Hacker is a "
+"The logical continuation of the M48 Patton concept, the XM69 is a "
 "versatile, all-around medium tank with no major weaknesses. Its combination "
 "of decent mobility, strong armor, and an excellent gun makes it well-"
 "equipped for a variety of battlefield roles—while its firepower can also be "
 "further enhanced when the need arises."
 
 msgid "A183_XM69_Hacker_short"
-msgstr "Hacker"
+msgstr "XM69"
 
 msgid "A187_Ares_75"
 msgstr "Ares 75"
@@ -2093,7 +2093,7 @@ msgid "A194_AHT_7_short_special"
 msgstr "Huge alpha damage, reserve track"
 
 msgid "A195_Gorilla"
-msgstr "Gorilla"
+msgstr "XM110"
 
 msgid "A195_Gorilla_descr"
 msgstr ""
@@ -2108,14 +2108,14 @@ msgstr ""
 
 msgid "A195_Gorilla_long_special"
 msgstr ""
-"The Gorilla shares its predecessors' defining feature: a rotating turret "
+"The XM110 shares its predecessors' defining feature: a rotating turret "
 "with decent armor thickness. This gives the tank destroyer a versatility "
 "that makes it effective from almost any position and engagement distance, "
 "while its cutting-edge partial loading mechanism ensures it's never caught "
 "off guard in combat."
 
 msgid "A195_Gorilla_short"
-msgstr "Gorilla"
+msgstr "XM110"
 
 msgid "A21_T14_long_special"
 msgstr ""
@@ -3026,7 +3026,7 @@ msgid "Chassis_A140_ASTRON_REX_105mm"
 msgstr "Rex"
 
 msgid "Chassis_A140_ASTRON_REX_105mm_SPD"
-msgstr "Alembic"
+msgstr "ASTRON Rex"
 
 msgid "Chassis_A141_M_IV_Y"
 msgstr "M-IV-Y"
@@ -3050,7 +3050,7 @@ msgid "Chassis_A144_M_VI_Y_CFE_R"
 msgstr "M-VI-Y (120)"
 
 msgid "Chassis_A144_M_VI_Y_CFE_RC"
-msgstr "OCP Peacekeeper"
+msgstr "M-VI-Y (120) "
 
 msgid "Chassis_A145_TS_54"
 msgstr "TS-54"
@@ -3134,7 +3134,7 @@ msgid "Chassis_A173_Sherman_Crab"
 msgstr "Sherman Crab"
 
 msgid "Chassis_A174_T57_58_Rush_Ep1"
-msgstr "Stinger"
+msgstr "T57 Heavy"
 
 msgid "Chassis_A175_LTC_II"
 msgstr "LTC II"
@@ -3149,13 +3149,13 @@ msgid "Chassis_A178_SPHT"
 msgstr "SPHT"
 
 msgid "Chassis_A179_Black_Rock"
-msgstr "Black Rock"
+msgstr "Concept 2B"
 
 msgid "Chassis_A182_T803"
 msgstr "T803"
 
 msgid "Chassis_A183_XM69_Hacker"
-msgstr "XM69 Hacker"
+msgstr "XM69"
 
 msgid "Chassis_A187_Ares_75"
 msgstr "Ares 75 DARPA"
@@ -3191,7 +3191,7 @@ msgid "Chassis_A194_AHT_7"
 msgstr "AHT-7"
 
 msgid "Chassis_A195_Gorilla"
-msgstr "Gorilla"
+msgstr "XM110"
 
 msgid "Chassis_A22_M5_Stuart"
 msgstr "M5 Stuart"
@@ -5192,7 +5192,7 @@ msgid "Turret_1_A140_ASTRON_REX_105mm"
 msgstr "ASTRON Rex"
 
 msgid "Turret_1_A140_ASTRON_REX_105mm_SPD"
-msgstr "Alembic"
+msgstr "ASTRON Rex"
 
 msgid "Turret_1_A141_M_IV_Y"
 msgstr "M-IV-Y"
@@ -5210,7 +5210,7 @@ msgid "Turret_1_A144_M_VI_Y_CFE_R"
 msgstr "M-VI-Y (120)"
 
 msgid "Turret_1_A144_M_VI_Y_CFE_RC"
-msgstr "OCP Peacekeeper"
+msgstr "M-VI-Y (120)"
 
 msgid "Turret_1_A145_TS_54"
 msgstr "TS-54"
@@ -5288,7 +5288,7 @@ msgid "Turret_1_A173_Sherman_Crab"
 msgstr "Sherman Crab"
 
 msgid "Turret_1_A174_T57_58_Rush_Ep1"
-msgstr "Stinger"
+msgstr "T57 Heavy"
 
 msgid "Turret_1_A175_LTC_II"
 msgstr "LTC II"
@@ -5303,13 +5303,13 @@ msgid "Turret_1_A178_SPHT"
 msgstr "SPHT"
 
 msgid "Turret_1_A179_Black_Rock"
-msgstr "Black Rock"
+msgstr "Concept 2B"
 
 msgid "Turret_1_A182_T803"
 msgstr "T803"
 
 msgid "Turret_1_A183_XM69_Hacker"
-msgstr "XM69 Hacker"
+msgstr "XM69"
 
 msgid "Turret_1_A187_Ares_75"
 msgstr "Ares 75"
@@ -5336,7 +5336,7 @@ msgid "Turret_1_A194_AHT_7"
 msgstr "AHT-7"
 
 msgid "Turret_1_A195_Gorilla"
-msgstr "Gorilla"
+msgstr "XM110"
 
 msgid "Turret_1_A22_M5_Stuart"
 msgstr "M5 Stuart"
