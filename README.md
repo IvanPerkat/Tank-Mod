@@ -145,3 +145,18 @@ Below is complete list of all renamed vehicles categorized by tier and nation.
 | **X** | Stinger | T57 Heavy |
 | **XI** | Gorilla | XM110 |
 | **XI** | Hacker | XM69 |
+
+### U.S.S.R.
+
+| Tier | Original | Changed |
+| :---: | :---: | :---: |
+| **VIII** | Forest Spirit | SU-130PM |
+| **VIII** | 703 II (122) | Obj. 703 II |
+| **VIII** | Defender | Obj. 252U |
+| **VIII** | Guard | STG |
+| **VIII** | Peregrine | IS-3A |
+| **VIII** | Obj. 274a | Obj. 274A | 
+| **VIII** | Udarniy | Obj. 259A |
+| **VIII** | Obsidian | TITT |
+| **VIII** | Kust | Obj. Kust |
+| **IX** | Buryan | Pr. 1476 |
