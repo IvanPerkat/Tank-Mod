@@ -203,7 +203,7 @@ msgid "Chassis_S34_Lago_M38"
 msgstr "Lago M38"
 
 msgid "Chassis_S35_Stridsyxa"
-msgstr "Stridsyxa"
+msgstr "Strv projekt 1954"
 
 msgid "Chassis_S36_Strv_107_12"
 msgstr "Strv 107-12"
@@ -720,7 +720,7 @@ msgstr ""
 "other hand, it has weak side armor and its speed leaves much to be desired."
 
 msgid "S23_Strv_81_sabaton_short"
-msgstr "P:Victoria"
+msgstr "Strv 81"
 
 msgid "S23_Strv_81_sabaton_short_special"
 msgstr "A decent view range and a well-armored turret"
@@ -961,7 +961,7 @@ msgid "S34_Lago_M38_short_special"
 msgstr "Nice frontal armor and high rate of fire"
 
 msgid "S35_Stridsyxa"
-msgstr "Stridsyxa"
+msgstr "Stridsvagn projekt 1954"
 
 msgid "S35_Stridsyxa_descr"
 msgstr ""
@@ -974,14 +974,14 @@ msgstr ""
 
 msgid "S35_Stridsyxa_long_special"
 msgstr ""
-"The Stridsyxa is a Tier VIII Swedish medium tank equipped with a 105 mm gun "
+"The Strv pr. 54 is a Tier VIII Swedish medium tank equipped with a 105 mm gun "
 "that offers comfortable vertical angles, reliable gun handling, and strong "
 "damage per minute. Thanks to its good mobility and dependable frontal armor, "
 "it can also count on swift repositioning across the map as one of its "
 "already versatile range of battle tactics."
 
 msgid "S35_Stridsyxa_short"
-msgstr "Stridsyxa"
+msgstr "Strv pr. 54"
 
 msgid "S35_Stridsyxa_short_special"
 msgstr "Reliable frontal armor, comfortable gun"
@@ -1194,7 +1194,7 @@ msgid "Turret_1_S34_Lago_M38"
 msgstr "Lago M38"
 
 msgid "Turret_1_S35_Stridsyxa"
-msgstr "Stridsyxa"
+msgstr "Strv projekt 54"
 
 msgid "Turret_1_S36_Strv_107_12"
 msgstr "Strv 107-12"
