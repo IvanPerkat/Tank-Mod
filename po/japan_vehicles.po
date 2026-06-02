@@ -179,7 +179,7 @@ msgid "Chassis_J35_Ho_Ri_3_7x7"
 msgstr "Ho-Ri 3"
 
 msgid "Chassis_J36_Type_63_HT"
-msgstr "Type 63"
+msgstr "SHB"
 
 msgid "Chassis_J37_Type_3_Ho_Ni_III"
 msgstr "Type 3 Ho-Ni III"
@@ -215,7 +215,7 @@ msgid "Chassis_J42_Chi_Se"
 msgstr "Chi-Se"
 
 msgid "Chassis_J42_Chi_Se_CFE_A"
-msgstr "Stitch"
+msgstr "Chi-Se"
 
 msgid "Chassis_J43_Type_4_Ju-To"
 msgstr "Shi-Ro"
@@ -236,16 +236,16 @@ msgid "Chassis_J45_Mitsu_108_2"
 msgstr "Type Mitsu 108"
 
 msgid "Chassis_J48_Saryuda"
-msgstr "Saryuda"
+msgstr "Ka-Nu"
 
 msgid "Chassis_J49_Kame"
-msgstr "Kame"
+msgstr "Chi-Ru"
 
 msgid "Chassis_J50_Type_1_Ho_Ni_II"
 msgstr "Type 1 Ho-Ni II"
 
 msgid "Chassis_J51_Ashigaru"
-msgstr "Ashigaru"
+msgstr "SCV-1"
 
 msgid "Chassis_J52_STK_2"
 msgstr "STK-2"
@@ -810,11 +810,11 @@ msgid "J35_Ho_Ri_3_short"
 msgstr "Ho-Ri 3"
 
 msgid "J36_Type_63_HT"
-msgstr "Type 63"
+msgstr "SHB"
 
 msgid "J36_Type_63_HT_descr"
 msgstr ""
-"The Type 63 project was an independent development by Mitsubishi Heavy "
+"The SHB project was an independent development by Mitsubishi Heavy "
 "Industries to improve firepower and armor while maintaining high mobility. "
 "The main innovation was the design of the turret with an oscillating "
 "isolated central armament compartment, at the rear of which the autoloader "
@@ -830,7 +830,7 @@ msgstr ""
 "combat situation."
 
 msgid "J36_Type_63_HT_short"
-msgstr "Type 63"
+msgstr "SHB"
 
 msgid "J36_Type_63_HT_short_special"
 msgstr "Double aiming mechanics and hydropneumatic suspension"
@@ -869,7 +869,7 @@ msgid "J38_Type_95_Ji_Ro_short"
 msgstr "Ji-Ro"
 
 msgid "J39_Type_57"
-msgstr "Type 57"
+msgstr "SHA"
 
 msgid "J39_Type_57_descr"
 msgstr ""
@@ -882,10 +882,10 @@ msgstr ""
 "was never built."
 
 msgid "J39_Type_57_short"
-msgstr "Type 57"
+msgstr "SHA"
 
 msgid "J40_Type_71"
-msgstr "Type 71"
+msgstr "SHC-2"
 
 msgid "J40_Type_71_7x7"
 msgstr "Type 71 7x7"
@@ -912,10 +912,10 @@ msgstr ""
 "a large caliber gun."
 
 msgid "J40_Type_71_short"
-msgstr "Type 71"
+msgstr "SHC-2"
 
 msgid "J41_Type_68"
-msgstr "Type 68"
+msgstr "SHC-1"
 
 msgid "J41_Type_68_descr"
 msgstr ""
@@ -932,13 +932,13 @@ msgstr ""
 "expensive, and no prototypes were built."
 
 msgid "J41_Type_68_short"
-msgstr "Type 68"
+msgstr "SHC-1"
 
 msgid "J42_Chi_Se"
 msgstr "Chi-Se"
 
 msgid "J42_Chi_Se_CFE_A"
-msgstr "Stitch"
+msgstr "Chi-Se"
 
 msgid "J42_Chi_Se_CFE_A_descr"
 msgstr ""
@@ -963,14 +963,14 @@ msgstr ""
 
 msgid "J42_Chi_Se_CFE_A_long_special"
 msgstr ""
-"The Stitch is a Tier VIII Japanese heavy tank. It has good mobility for a "
+"The Chi-Se is a Tier VIII Japanese heavy tank. It has good mobility for a "
 "heavy and decent armor. Its gun is very versatile, with a decent combination "
 "of accuracy, DPM, and penetration. The main feature of this tank is its "
 "excellent gun depression angles, allowing it to play from a wide variety of "
 "positions."
 
 msgid "J42_Chi_Se_CFE_A_short"
-msgstr "Stitch"
+msgstr "Chi-Se"
 
 msgid "J42_Chi_Se_CFE_A_short_special"
 msgstr "Excellent gun depression, good mobility"
@@ -1047,7 +1047,7 @@ msgid "J45_Mitsu_108_short"
 msgstr "Mitsu 108"
 
 msgid "J48_Saryuda"
-msgstr "Saryuda"
+msgstr "Ka-Nu"
 
 msgid "J48_Saryuda_descr"
 msgstr ""
@@ -1066,20 +1066,20 @@ msgstr ""
 
 msgid "J48_Saryuda_long_special"
 msgstr ""
-"The Saryuda is a Tier IX Japanese tank destroyer. It is equipped with a 12.7 "
+"The Ka-Nu is a Tier IX Japanese tank destroyer. It is equipped with a 12.7 "
 "cm double-barrel gun that causes considerable damage with each shot and is "
 "especially deadly when firing from both barrels. The vehicle's mobility is "
 "good enough for taking key positions, while reliable armor helps defend "
 "these positions from enemy vehicles."
 
 msgid "J48_Saryuda_short"
-msgstr "Saryuda"
+msgstr "Ka-Nu"
 
 msgid "J48_Saryuda_short_special"
 msgstr "Double gun system, reliable frontal armor"
 
 msgid "J49_Kame"
-msgstr "Kame"
+msgstr "Chi-Ru"
 
 msgid "J49_Kame_descr"
 msgstr ""
@@ -1087,8 +1087,7 @@ msgstr ""
 "and Soviet medium and heavy tanks. The designers strove to apply the most "
 "successful technical innovations of various tank-building schools. The "
 "vehicle had torsion-bar suspension, good sloped hull armor, and a powerful "
-"gun. Due to its peculiar turtle-shell-like appearance, the new tank was "
-"given the name Kame (Japanese for \"turtle\"). Engineers had the separate "
+"gun. Engineers had the separate "
 "task of increasing the rate of fire. To do this, they mounted the gun with a "
 "special external radiator meant to significantly reduce barrel heating. The "
 "new tank had good prospects, but the Japanese did not manage to build a "
@@ -1096,13 +1095,13 @@ msgstr ""
 
 msgid "J49_Kame_long_special"
 msgstr ""
-"The Kame is a Tier IX Japanese medium tank with an unusual autoloader. It "
+"The Chi-Ru is a Tier IX Japanese medium tank with an unusual autoloader. It "
 "offers a very short intra-clip reload but poor accuracy, making continuous "
 "fire more effective in close combat. When the gun is cooled, the clip can be "
 "fired with much better accuracy, though with longer pauses between shots."
 
 msgid "J49_Kame_short"
-msgstr "Kame"
+msgstr "Chi-Ru"
 
 msgid "J49_Kame_short_special"
 msgstr "Autoloader, double aiming system"
@@ -1131,7 +1130,7 @@ msgid "J50_Type_1_Ho_Ni_II_short_special"
 msgstr "Huge damage per shot, sufficient mobility"
 
 msgid "J51_Ashigaru"
-msgstr "Ashigaru"
+msgstr "SCV-1"
 
 msgid "J51_Ashigaru_descr"
 msgstr ""
@@ -1143,13 +1142,13 @@ msgstr ""
 
 msgid "J51_Ashigaru_long_special"
 msgstr ""
-"The Ashigaru is a Tier X Japanese wheeled tank destroyer equipped with a "
+"The SCV-1 is a Tier X Japanese wheeled tank destroyer equipped with a "
 "highly versatile gun, good mobility, and strong maneuverability. Its double "
 "aiming system further enhances its already impressive accuracy, giving it "
 "surgical precision on the battlefield."
 
 msgid "J51_Ashigaru_short"
-msgstr "Ashigaru"
+msgstr "SCV-1"
 
 msgid "J51_Ashigaru_short_special"
 msgstr "Good mobility, versatile gun with double aiming system"
@@ -1159,10 +1158,10 @@ msgstr "STK-2"
 
 msgid "J52_STK_2_descr"
 msgstr ""
-"While the Type 71 was in the design stage, the Japanese military received "
+"While the SHC-2 was in the design stage, the Japanese military received "
 "partial intel from the U.S.A. about the new Soviet T-64. As a result, they "
 "decided to build a more powerful vehicle, designated as the STK-2, alongside "
-"the development of the Type 71. The hull and turret were reworked, with the "
+"the development of the SHC-2. The hull and turret were reworked, with the "
 "hull front especially reinforced, to increase the level of armoring. In "
 "addition, a more powerful engine improved the tank's mobility and crossing "
 "capacity. However, the vehicle turned out too expensive and never entered "
@@ -1443,7 +1442,7 @@ msgid "Turret_1_J35_Ho_Ri_3_7x7"
 msgstr "Ho-Ri 3"
 
 msgid "Turret_1_J36_Type_63_HT"
-msgstr "Type 63"
+msgstr "SHB"
 
 msgid "Turret_1_J37_Type_3_Ho_Ni_III"
 msgstr "Type 3 Ho-Ni III"
@@ -1467,7 +1466,7 @@ msgid "Turret_1_J42_Chi_Se"
 msgstr "Chi-Se"
 
 msgid "Turret_1_J42_Chi_Se_CFE_A"
-msgstr "Stitch"
+msgstr "Chi-Se"
 
 msgid "Turret_1_J43_Type_4_Ju-To"
 msgstr "Shi-Ro"
@@ -1479,16 +1478,16 @@ msgid "Turret_1_J45_Mitsu_108"
 msgstr "Mitsu 75"
 
 msgid "Turret_1_J48_Saryuda"
-msgstr "Saryuda"
+msgstr "Ka-Nu"
 
 msgid "Turret_1_J49_Kame"
-msgstr "Kame"
+msgstr "Chi-Ru"
 
 msgid "Turret_1_J50_Type_1_Ho_Ni_II"
 msgstr "Type 1 Ho-Ni II"
 
 msgid "Turret_1_J51_Ashigaru"
-msgstr "Ashigaru"
+msgstr "SCV-1"
 
 msgid "Turret_1_J52_STK_2"
 msgstr "STK-2"
