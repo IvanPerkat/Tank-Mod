@@ -108,3 +108,21 @@ Below is complete list of all renamed vehicles categorized by tier and nation.
 | **IX** | Type 68 | SHC-1 |
 | **X** | Ashigaru | SCV-1 |
 | **X** | Type 71 | SHC-2 |
+
+### Poland
+
+| Tier | Original | Changed |
+| :---: | :---: | :---: |
+| **V** | Zadymka | SDP wz. 40 |
+| **VI** | Burza | SDP wz. 44 |
+| **VII** | Gowika | SDP wz. 57D |
+| **VIII** | Kilana | SDP wz. 58T |
+| **VIII** | Grom | SDP wz. 66T |
+| **VIII** | Wojtek | CS-53/56 |
+| **IX** | Gonkiewicza | SDP wz. 60 |
+| **IX** | Pancernik | Czołg P wz. 46 |
+| **X** | Błyskawica | NC wz. 70T |
+| **X** | Ashbringer | 60TP |
+| **X** | Hurricane | CS-63 |
+| **X** | Bzyg | Wz. 64GC |
+| **XI** | Szakal | CS-67 |
